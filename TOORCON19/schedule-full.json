@@ -179,7 +179,7 @@
       "index" : "7",
       "end_date" : "2017-09-02T14:50:00-07:00",
       "updated_at" : "2017-08-24T22:08:28-07:00",
-      "title" : "Defending Cyberspace by Thinking “1n51d3-th3-B0x”"
+      "title" : "Defending Cyberspace by Thinking \"1n51d3-th3-B0x\""
     }
   ,
     {
@@ -508,11 +508,11 @@
       "location" : "Track 2",
       "demo" : 0,
       "entry_type" : "Conference",
-      "description" : "Starting from Espionage and ending at OSINT, our data gathering techniques has been developed magnificently. In 90′s, the security posture of national security, law enforcement agencies, Cyber Security agencies was totally different. At that time gathering, data about someone was very difficult due to fewer Internet resources.But, this digital era has overcome the techniques used for information gathering in 90′s by Intelligence Gathering. It includes gathering data from various public sources and their API. Activities which one performs in its entire lifespan is recorded by various public sources.Intelligence Gathering includes human, geo-location, open-source, signals, digital and financial intelligence. The CIA, NSA, and RGA are using OSINT for collecting data as collateral information.\n\nIn order to debunk people myth's about information gathering, I made an open source tool called as OSINT-SPY which I will release after this talk. OSINT-SPY can find information about a person, email, an organization, person's geolocation, domain names, publically available devices on the internet and so on. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target.\n\nIn this talk, my main focus will be to demonstrate different techniques to gather information from public API, resources and understanding the need of implementing OSINT in any organization because open sources may often be useful in penetrating across closed borders than open societies.",
+      "description" : "Starting from Espionage and ending at OSINT, our data gathering techniques has been developed magnificently. In 90's, the security posture of national security, law enforcement agencies, Cyber Security agencies was totally different. At that time gathering, data about someone was very difficult due to fewer Internet resources.But, this digital era has overcome the techniques used for information gathering in 90's by Intelligence Gathering. It includes gathering data from various public sources and their API. Activities which one performs in its entire lifespan is recorded by various public sources.Intelligence Gathering includes human, geo-location, open-source, signals, digital and financial intelligence. The CIA, NSA, and RGA are using OSINT for collecting data as collateral information.\n\nIn order to debunk people myth's about information gathering, I made an open source tool called as OSINT-SPY which I will release after this talk. OSINT-SPY can find information about a person, email, an organization, person's geolocation, domain names, publically available devices on the internet and so on. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target.\n\nIn this talk, my main focus will be to demonstrate different techniques to gather information from public API, resources and understanding the need of implementing OSINT in any organization because open sources may often be useful in penetrating across closed borders than open societies.",
       "index" : "20",
       "end_date" : "2017-09-03T14:20:00-07:00",
       "updated_at" : "2017-08-24T22:08:28-07:00",
-      "title" : "From 90′s to 20′s | Espionage to Intelligence — Birth Of OSINT"
+      "title" : "From 90's to 20's | Espionage to Intelligence - Birth Of OSINT"
     },
 
 
