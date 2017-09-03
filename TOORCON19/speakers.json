@@ -328,6 +328,33 @@
       "media" : "",
       "bio" : "Chuck has been working in network security professionally for 15+ years. He currently is a Security Researcher at Ixia Communications, focused on Threat Intelligence and Exploit Research. Most of the time he lives in his cave in New Hampchusetts staring at PCAPs deciphering tea leaves. Sometimes he stumbles on something no one else has looked at and then talks about it."
     }
+    ,
+    {
+      "sptitle" : "",
+      "who" : "Kevin Mitnick",
+      "indexsp" : "42",
+      "last_update" : "2017-08-24T22:10:28-07:00",
+      "media" : "",
+      "bio" : "We all know Kevin. No bio needed."
+    }
+    ,
+    {
+      "sptitle" : "",
+      "who" : "David Hulton",
+      "indexsp" : "43",
+      "last_update" : "2017-08-24T22:10:28-07:00",
+      "media" : "",
+      "bio" : "David Hulton organizes the ToorCon suite of conferences and has spent nearly 20 years doing security research mostly focused on reverse engineering and cracking crypto. He’s mostly known for developing the bsd-airtools wireless attack tools in the early 2000′s, developing and presenting the first practical attack on GSM A5/1 in 2008, and releasing a DES cracking service and tools to perform a full break of MSCHAPv2 authentication in 2012."
+    }
+    ,
+    {
+      "sptitle" : "",
+      "who" : "Dan Tentler",
+      "indexsp" : "44",
+      "last_update" : "2017-08-24T22:10:28-07:00",
+      "media" : "",
+      "bio" : "Dan Tentler is the founder and CEO of The Phobos Group, a boutique information security services company. Previously a co-founder and CTO of Carbon Dynamics, and a security freelancer under the Aten Labs moniker, Dan has found himself in a wide array of different environments, ranging from blue team, to red team, to purple team, to “evil hacker for a camera crew”. Dan is an accomplished public speaker, having spoken at security conferences such as BlackHat, DEF CON, Bsides San Francisco, Hack in the Box, 44con and many more. Dan routinely interacts with the media as a subject matter expert for security stories, and has been in several documentaries as a security expert. Dan enjoys FPV racing and crashing drones in new and interesting ways."
+    }
   ],
-  "update_date" : "2017-08-24T22:08:28-07:00"
+  "update_date" : "2017-09-01T13:22:16-07:00"
 }
