@@ -54,7 +54,7 @@
       "index" : "2",
       "end_date" : "2017-09-02T011:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "FaceDancer 2.0 – next generation USB hacking"
+      "title" : "FaceDancer 2.0 - next generation USB hacking"
     }
   ,
     {
@@ -104,7 +104,7 @@
       "index" : "4",
       "end_date" : "2017-09-02T13:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Open Up and Say 0×41414141: Attacking Medical Devices"
+      "title" : "Open Up and Say 0x41414141: Attacking Medical Devices"
     }
   ,
     {
@@ -154,7 +154,7 @@
       "index" : "6",
       "end_date" : "2017-09-02T14:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "ShellPcapFication (SPF) – A Sophisticated Interactive Shell Framework"
+      "title" : "ShellPcapFication (SPF) - A Sophisticated Interactive Shell Framework"
     }
   ,
     {
@@ -440,7 +440,7 @@
       "index" : "17",
       "end_date" : "2017-09-03T12:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Dynamic whitelisting and security policy automation – pipe-dream or not?"
+      "title" : "Dynamic whitelisting and security policy automation - pipe-dream or not?"
     },
 
     {
@@ -538,7 +538,7 @@
       "location" : "Track 1",
       "demo" : 0,
       "entry_type" : "Conference",
-      "description" : "This presentation is about a creative approach to intrusion tests, as the popular saying would say: “–The dog is man’s best friend” (he makes you feel good and secure).\n\nLet’s explore the vulnerability of layer eight, the human being, subject to error and the social engineering techniques; This is an innovative method, with art and style, will be simpler than it sounds; The dog will be used as an attack tool, which will carry a mobile phone hidden along with its pectoral collar.\n\nThe attack vectors are triggered automatically without any human interaction. This may include geographically close attacks, such as fake Wi-Fi access points, cellular base stations or local user attacks on a network, we can exploit DNS hijacking, packet injection, Evil-Twin, rogue router or ISP, and many other variants.\n\nFurthermore, the target will connect to your rogue wifi access point and the rules are enabled with the DHCP configurations to allow fake AP to allocate IP address to the clients and forward traffic to a fake/malicious web-site; Then, the information can be stored easily as well the injection of malicious file to remotely control the victim.\n\nAnd it’s done. You can drop your hacker dog in a park and expect him to hack people for you, quietly, that’s perfect!",
+      "description" : "This presentation is about a creative approach to intrusion tests, as the popular saying would say: “-The dog is man’s best friend” (he makes you feel good and secure).\n\nLet’s explore the vulnerability of layer eight, the human being, subject to error and the social engineering techniques; This is an innovative method, with art and style, will be simpler than it sounds; The dog will be used as an attack tool, which will carry a mobile phone hidden along with its pectoral collar.\n\nThe attack vectors are triggered automatically without any human interaction. This may include geographically close attacks, such as fake Wi-Fi access points, cellular base stations or local user attacks on a network, we can exploit DNS hijacking, packet injection, Evil-Twin, rogue router or ISP, and many other variants.\n\nFurthermore, the target will connect to your rogue wifi access point and the rules are enabled with the DHCP configurations to allow fake AP to allocate IP address to the clients and forward traffic to a fake/malicious web-site; Then, the information can be stored easily as well the injection of malicious file to remotely control the victim.\n\nAnd it’s done. You can drop your hacker dog in a park and expect him to hack people for you, quietly, that’s perfect!",
       "index" : "21",
       "end_date" : "2017-09-03T14:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
@@ -714,7 +714,7 @@
       "location" : "Track 2",
       "demo" : 0,
       "entry_type" : "Conference",
-      "description" : "It is widely accepted that security mistakes are quicker and cheaper to fix the sooner they are identified after being introduced. With that as a guiding principle, DevSkim was developed to help identify certain insecure patterns as the developer is writing code within their IDE. Currently integrating with Visual Studio, Visual Studio Code, and Sublime, DevSkim is an open sourced extension that flags insecure patterns inline in the IDE, provides security guidance to explain the issue, and offers automatic fixes. DevSkim supports multiple programming and scripting languages, and its rules syntax makes adding a new rule for any language straightforward. The most effective security processes use layers of validation to identify and address security mistakes – DevSkim aims to be the first layer in that approach, complementing rather than replacing more time intensive build time Static Analysis, or post-build Dynamic Analysis.",
+      "description" : "It is widely accepted that security mistakes are quicker and cheaper to fix the sooner they are identified after being introduced. With that as a guiding principle, DevSkim was developed to help identify certain insecure patterns as the developer is writing code within their IDE. Currently integrating with Visual Studio, Visual Studio Code, and Sublime, DevSkim is an open sourced extension that flags insecure patterns inline in the IDE, provides security guidance to explain the issue, and offers automatic fixes. DevSkim supports multiple programming and scripting languages, and its rules syntax makes adding a new rule for any language straightforward. The most effective security processes use layers of validation to identify and address security mistakes - DevSkim aims to be the first layer in that approach, complementing rather than replacing more time intensive build time Static Analysis, or post-build Dynamic Analysis.",
       "index" : "28",
       "end_date" : "2017-09-03T16:50:00-07:00",
       "updated_at" : "2017-08-24T22:08:28-07:00",
@@ -743,7 +743,7 @@
       "index" : "29",
       "end_date" : "2017-08-28T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Advanced Malware Training – Day 1 of 2"
+      "title" : "Advanced Malware Training - Day 1 of 2"
     },
 
     {
@@ -768,7 +768,7 @@
       "index" : "45",
       "end_date" : "2017-08-29T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Advanced Malware Training – Day 2 of 2"
+      "title" : "Advanced Malware Training - Day 2 of 2"
     },
 
     {
@@ -793,7 +793,7 @@
       "index" : "30",
       "end_date" : "2017-08-28T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Deeper Investigations for the SOC – Day 1 of 2"
+      "title" : "Deeper Investigations for the SOC - Day 1 of 2"
     },
 
 
@@ -819,7 +819,7 @@
       "index" : "46",
       "end_date" : "2017-08-29T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Deeper Investigations for the SOC – Day 2 of 2"
+      "title" : "Deeper Investigations for the SOC - Day 2 of 2"
     },
 
     {
@@ -895,7 +895,7 @@
       "index" : "32",
       "end_date" : "2017-08-28T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Hardware Hacking Workshop – Day 1 of 4"
+      "title" : "Hardware Hacking Workshop - Day 1 of 4"
     },
 
     {
@@ -920,7 +920,7 @@
       "index" : "48",
       "end_date" : "2017-08-29T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Hardware Hacking Workshop – Day 2 of 4"
+      "title" : "Hardware Hacking Workshop - Day 2 of 4"
     },
 
     {
@@ -945,7 +945,7 @@
       "index" : "49",
       "end_date" : "2017-08-30T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Hardware Hacking Workshop – Day 3 of 4"
+      "title" : "Hardware Hacking Workshop - Day 3 of 4"
     },
 
     {
@@ -970,7 +970,7 @@
       "index" : "50",
       "end_date" : "2017-08-31T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Hardware Hacking Workshop – Day 4 of 4"
+      "title" : "Hardware Hacking Workshop - Day 4 of 4"
     },
     {
       "exploit" : 0,
@@ -994,7 +994,7 @@
       "index" : "33",
       "end_date" : "2017-08-303T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Software Defined Radio Workshop – Day 1 of 2"
+      "title" : "Software Defined Radio Workshop - Day 1 of 2"
     },
     {
       "exploit" : 0,
@@ -1018,7 +1018,7 @@
       "index" : "51",
       "end_date" : "2017-08-31T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Software Defined Radio Workshop – Day 2 of 2"
+      "title" : "Software Defined Radio Workshop - Day 2 of 2"
     },
 
     {
@@ -1167,7 +1167,7 @@
       "index" : "39",
       "end_date" : "2017-09-02T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Contest – TC:CTF"
+      "title" : "Contest - TC:CTF"
     },
 
     {
@@ -1188,7 +1188,7 @@
       "index" : "40",
       "end_date" : "2017-09-02T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Event – Lockpicking Village"
+      "title" : "Event - Lockpicking Village"
     },
     {
 
@@ -1209,7 +1209,7 @@
       "index" : "41",
       "end_date" : "2017-09-02T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Contest – The Box"
+      "title" : "Contest - The Box"
     },
 
     {
@@ -1230,7 +1230,7 @@
       "index" : "42",
       "end_date" : "2017-09-02T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
-      "title" : "Contest – SOHOpelessly Broken"
+      "title" : "Contest - SOHOpelessly Broken"
     },
 
     {
