@@ -1,0 +1,32 @@
+{
+   "event_types" : [
+      {
+         "event_type" : "Contest"
+      },
+      {
+         "event_type" : "Event"
+      },
+      {
+         "event_type" : "Official"
+      },
+      {
+         "event_type" : "Party"
+      },
+      {
+         "event_type" : "Lab"
+      },
+      {
+         "event_type" : "Breaks"
+      },
+      {
+         "event_type" : "Firetalk"
+      },
+      {
+         "event_type" : "Un-Official"
+      },
+      {
+         "event_type" : "Village"
+      }
+   ],
+   "update_date" : "2018-01-12T10:00:00"
+}
