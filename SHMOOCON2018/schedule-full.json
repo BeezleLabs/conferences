@@ -95,11 +95,11 @@
 			"location": "One Track Mind",
 			"demo": 0,
 			"entry_type": "Official",
-			"description": "With GDPR coming into effect on May 25, 2018, any organization handling EU citizen's personal data should be prepared to comply with stricter privacy regulations or be ready to pay up to four percent of their global annual revenue in fines or €20,000"000. This is a substantial penalty for non-compliant companies, and does not focus just on companies based in Europe — it's for ALL companies globally who do business in the EU. With just months remaining, the clock is ticking on companies to be compliant. Let's explore what is covered by GDPR and how it may impact your organisation answering questions such as do I need to have a DPO; I don't do business directly in the EU when does GDPR affect me; what data is affected? While a compliance theme has been pushed by vendors, we will cover why GDPR is not about compliance but about changing key process and procedures such as incident response.",
+			"description": "With GDPR coming into effect on May 25, 2018, any organization handling EU citizen's personal data should be prepared to comply with stricter privacy regulations or be ready to pay up to four percent of their global annual revenue in fines or €20,000,000. This is a substantial penalty for non-compliant companies, and does not focus just on companies based in Europe — it's for ALL companies globally who do business in the EU. With just months remaining, the clock is ticking on companies to be compliant. Let's explore what is covered by GDPR and how it may impact your organisation answering questions such as do I need to have a DPO; I don't do business directly in the EU when does GDPR affect me; what data is affected? While a compliance theme has been pushed by vendors, we will cover why GDPR is not about compliance but about changing key process and procedures such as incident response.",
 			"index": 25,
 			"end_date": "2018-01-21T16:20:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
-			"title": "Don't Ignore GDPR; It Matters Now!"
+			"title": "Don’t Ignore GDPR; It Matters Now!"
 		},
 		{
 			"exploit": 0,
@@ -243,7 +243,7 @@
 			"index": 68,
 			"end_date": "2018-01-21T20:20:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
-			"title": "That's No Moon(shot)!"
+			"title": "That’s No Moon(shot)!"
 		},
 		{
 			"exploit": 0,
@@ -315,7 +315,7 @@
 			"index": 71,
 			"end_date": "2018-01-21T21:20:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
-			"title": "Your Defense is Flawed (it's only kinda your fault)"
+			"title": "Your Defense is Flawed (it’s only kinda your fault)"
 		},
 		{
 			"exploit": 0,
@@ -343,7 +343,7 @@
 			"index": 72,
 			"end_date": "2018-01-21T21:40:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
-			"title": "The First Thing We Do, Let's Kill all the [CISOs]"
+			"title": "The First Thing We Do, Let’s Kill all the [CISOs]"
 		},
 		{
 			"exploit": 0,
@@ -367,7 +367,7 @@
 			"index": 74,
 			"end_date": "2018-01-21T22:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
-			"title": "Patching — It's Complicated"
+			"title": "Patching — It’s Complicated"
 		},
 		{
 			"exploit": 0,
@@ -571,7 +571,7 @@
 			"index": 56,
 			"end_date": "2018-01-21T11:50:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
-			"title": "Pages from a Sword-Maker's Notebook pt. II"
+			"title": "Pages from a Sword-Maker’s Notebook pt. II"
 		},
 		{
 			"exploit": 0,
@@ -915,7 +915,7 @@
 			"index": 59,
 			"end_date": "2018-01-21T15:50:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
-			"title": "Listing the 1337: Adventures in Curating HackerTwitter's Institutional Knowledge"
+			"title": "Listing the 1337: Adventures in Curating HackerTwitter’s Institutional Knowledge"
 		},
 		{
 			"exploit": 0,
@@ -939,7 +939,7 @@
 			"index": 55,
 			"end_date": "2018-01-21T16:20:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
-			"title": "afl-unicorn: Fuzzing the ‘Unfuzzable'"
+			"title": "afl-unicorn: Fuzzing the ‘Unfuzzable’"
 		},
 		{
 			"exploit": 0,
@@ -1267,7 +1267,7 @@
 			"index": 67,
 			"end_date": "2018-01-21T10:50:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
-			"title": "This Is Not Your Grandfather's SIEM"
+			"title": "This Is Not Your Grandfather’s SIEM"
 		},
 		{
 			"exploit": 0,
@@ -1387,7 +1387,7 @@
 			"index": 54,
 			"end_date": "2018-01-21T12:50:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
-			"title": "SIGINT on a budget: Listening in, gathering data and watching–for less than $100"
+			"title": "SIGINT on a budget: Listening in, gathering data and watching–for less than $100-05:00"
 		},
 		{
 			"exploit": 0,
@@ -1519,24 +1519,8 @@
 			"location": "Lincoln East on the Concourse Level",
 			"demo": 0,
 			"entry_type": "Event",
-			"description": "Would you like to be able to legally transmit on over two dozen radio frequency bands (including 2.4Ghz), at up to 1500W? Communicate analog or digital tens to thousands of miles away? All it takes is an amateur radio license. If you're interested in becoming an Amateur Radio operator or hold a license you'd like to upgrade, there will be an Amateur Radio Licensing Exam Session at ShmooCon on Saturday, January 20th.  We will be offering Technician, General and Extra license exams on a walk-in basis, no need to register ahead of time.\n\nWhen: Tests will be given between 1:00-300 PM on Saturday, January 20th, 2018.
-
-This test is open to both the public and to ShmooCon attendees.  Those without ShmooCon badges please email nk1b@abtech.org if you are interested in taking the exam.
-
-WHAT YOU NEED TO BRING
-
-- An FCC Registration Number (FRN). Register for an FRN here: https://apps.fcc.gov/coresWeb/publicHome.do (We can accept an SSN for this, but, well, we'd prefer not to handle your SSN.)
-- Legal photo ID such as a driver's license or passport
-- $15 cash or a check made out to ARRL VEC
-- If you are upgrading, a copy of your current license and any applicable CSCEs
-- Pen or pencil
-- Calculator if you need one (preferably non-programable or we will have to erase its memory)
-- Study materials are available at the ARRL store: http://www.arrl.org/shop/Licensing-Education-and-Training/ and the question pools are available at http://www.arrl.org/question-pools.
-
-Practice exams can be found at http://www.qrz.com/hamtest/ and http://aa9pw.com/radio/.
-
-If you have any questions, or will require special assistance, please contact us ahead of the exam at: nk1b@abtech.org.",
-			"index": 100"
+			"description": "Would you like to be able to legally transmit on over two dozen radio frequency bands (including 2.4Ghz), at up to 1500W? Communicate analog or digital tens to thousands of miles away? All it takes is an amateur radio license. If you're interested in becoming an Amateur Radio operator or hold a license you'd like to upgrade, there will be an Amateur Radio Licensing Exam Session at ShmooCon on Saturday, January 20th.  We will be offering Technician, General and Extra license exams on a walk-in basis, no need to register ahead of time.\n\nWhen: Tests will be given between 1:00-300 PM on Saturday, January 20th, 2018.\n\nThis test is open to both the public and to ShmooCon attendees.  Those without ShmooCon badges please email nk1b@abtech.org if you are interested in taking the exam.\n\nWHAT YOU NEED TO BRING\n\n- An FCC Registration Number (FRN). Register for an FRN here: https://apps.fcc.gov/coresWeb/publicHome.do (We can accept an SSN for this, but, well, we'd prefer not to handle your SSN.)\n- Legal photo ID such as a driver's license or passport\n- $15 cash or a check made out to ARRL VEC\n- If you are upgrading, a copy of your current license and any applicable CSCEs\n- Pen or pencil\n- Calculator if you need one (preferably non-programable or we will have to erase its memory)\n- Study materials are available at the ARRL store: http://www.arrl.org/shop/Licensing-Education-and-Training/ and the question pools are available at http://www.arrl.org/question-pools.\n\nPractice exams can be found at http://www.qrz.com/hamtest/ and http://aa9pw.com/radio/.\n\nIf you have any questions, or will require special assistance, please contact us ahead of the exam at: nk1b@abtech.org.",
+			"index": 100,
 			"end_date": "2018-01-20T15:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
 			"title": "Amateur Radio Exams"
@@ -1559,23 +1543,7 @@ If you have any questions, or will require special assistance, please contact us
 			"location": "Hack Fortress",
 			"demo": 0,
 			"entry_type": "Contest",
-			"description": "Hackfortress returns for another year of competitive play. Are you ready to take the wrench from the returning champions (RIT)?
-
-If so, assemble your team and prepare to fight it out in the single elimination hacking and TF2 tournament.
-
-The competition remains unchanged: Six Team Fortress 2 players along with four hackers will battle it out against other teams to see which team is worthy to claim the golden wrench.
-
-Some new abilities have been added. Some removed. New challenges to test your hacking skills and items/effects to purchase in the Hackconomy. Oh, and we'll be streaming the matches via Twitch this year.
-
-HACK FORTRESS IN DETAIL
-
-Teams of 10 (4 Hackers + 6 TF2 players) will compete to score more points than their opponents during each match. The goal is simple: score more points than your competitors. How you do that is where the challenge comes in. The TF2 players will be frantically trying to kill, capture and win rounds against the opposing TF2 players. At the same time, the hackers will be attempting to solve a variety of hacking challenges. As tasks are completed, credits in our ‘hackconomy' are gained. These can be used to purchase effects to help your team or hinder your opponents in both hacking and TF2.
-
-The tournament will start at 10:00 am on Saturday. If you win all of your matches, you'll play a max of 3 rounds (with a 45 minute finale).
-
-Need a team? Need some additional info? No problem, drop by our sub reddit at /r/HackFortress/ (or sign up on site in the Hack Fortress room).
-
-During non competition times, we are open for folks to free play TF2, so stop by and check it out!",
+			"description": "Hackfortress returns for another year of competitive play. Are you ready to take the wrench from the returning champions (RIT)?\n\nIf so, assemble your team and prepare to fight it out in the single elimination hacking and TF2 tournament.\n\nThe competition remains unchanged: Six Team Fortress 2 players along with four hackers will battle it out against other teams to see which team is worthy to claim the golden wrench.\n\nSome new abilities have been added. Some removed. New challenges to test your hacking skills and items/effects to purchase in the Hackconomy. Oh, and we'll be streaming the matches via Twitch this year.\n\nHACK FORTRESS IN DETAIL\n\nTeams of 10 (4 Hackers + 6 TF2 players) will compete to score more points than their opponents during each match. The goal is simple: score more points than your competitors. How you do that is where the challenge comes in. The TF2 players will be frantically trying to kill, capture and win rounds against the opposing TF2 players. At the same time, the hackers will be attempting to solve a variety of hacking challenges. As tasks are completed, credits in our ‘hackconomy' are gained. These can be used to purchase effects to help your team or hinder your opponents in both hacking and TF2.\n\nThe tournament will start at 10:00 am on Saturday. If you win all of your matches, you'll play a max of 3 rounds (with a 45 minute finale).\n\nNeed a team? Need some additional info? No problem, drop by our sub reddit at /r/HackFortress/ (or sign up on site in the Hack Fortress room).\n\nDuring non competition times, we are open for folks to free play TF2, so stop by and check it out!",
 			"index": 101,
 			"end_date": "2018-01-20T20:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
@@ -1599,11 +1567,7 @@ During non competition times, we are open for folks to free play TF2, so stop by
 			"location": "Kaizen CTF",
 			"demo": 0,
 			"entry_type": "Contest",
-			"description": "What's a hacker conference without a CTF?  The Kaizen team has been participating in and developing CTFs for the past several years, and this year we're bringing our Jeopardy-style CTF to ShmooCon!  You can expect to see challenges involving cryptography, coding, forensics, web, binary reversing and exploitation.  The target difficulty is for CTF veterans and mid-level professionals, but there will be challenges for beginners as well as experts.
-
-The CTF is open to everyone, including non-conference attendees, but some challenges will only be available to those physically at the conference in the CTF room.  The competition will run from 2pm on Friday when the conference officially opens until noon on Sunday.  You can play as an individual or as a team.
-
-Kaizen is sponsored by Booz Allen Hamilton. Check your Shmoocon program or visit https://shmoocon.kaizen-ctf.com for more details.",
+			"description": "What's a hacker conference without a CTF?  The Kaizen team has been participating in and developing CTFs for the past several years, and this year we're bringing our Jeopardy-style CTF to ShmooCon!  You can expect to see challenges involving cryptography, coding, forensics, web, binary reversing and exploitation.  The target difficulty is for CTF veterans and mid-level professionals, but there will be challenges for beginners as well as experts.\n\nThe CTF is open to everyone, including non-conference attendees, but some challenges will only be available to those physically at the conference in the CTF room.  The competition will run from 2pm on Friday when the conference officially opens until noon on Sunday.  You can play as an individual or as a team.\n\nKaizen is sponsored by Booz Allen Hamilton. Check your Shmoocon program or visit https://shmoocon.kaizen-ctf.com for more details.",
 			"index": 102,
 			"end_date": "2018-01-20T12:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
@@ -1627,13 +1591,7 @@ Kaizen is sponsored by Booz Allen Hamilton. Check your Shmoocon program or visit
 			"location": "Lockpick Village",
 			"demo": 0,
 			"entry_type": "Village",
-			"description": "Want to tinker with locks and tools the likes of which you've only seen in movies featuring cat burglars, spies, and secret agents?  Then come on by the Lockpick Village, run by The Open Organisation Of Lockpickers, where you will have the opportunity to learn hands- on how the fundamental hardware of physical security operates and how it can be compromised.
-
-The Lockpick Village is a physical security demonstration and participation area.  Participants can learn about the vulnerabilities of various locking devices, techniques used to exploit these vulnerabilities, and practice on locks of various levels of difficultly to try it themselves.
-
-Experts will be on hand to demonstrate, and plenty of trial locks, picks, shims, and other devices will be made available.  By exploring the faults and flaws in many popular lock designs, you can prepare yourself not only for possible work in the penetration testing field, but also simply gain a much stronger knowledge about the best methods and practices for protecting your own infrastructure and personal property.
-
-Prizes. You like prizes. Everyone does. What's better than winning a contest with your newly acquired talents? After you run through one of the workshops, sign up for one of the contests and test your skill!",
+			"description": "Want to tinker with locks and tools the likes of which you've only seen in movies featuring cat burglars, spies, and secret agents?  Then come on by the Lockpick Village, run by The Open Organisation Of Lockpickers, where you will have the opportunity to learn hands- on how the fundamental hardware of physical security operates and how it can be compromised.\n\nThe Lockpick Village is a physical security demonstration and participation area.  Participants can learn about the vulnerabilities of various locking devices, techniques used to exploit these vulnerabilities, and practice on locks of various levels of difficultly to try it themselves.\n\nExperts will be on hand to demonstrate, and plenty of trial locks, picks, shims, and other devices will be made available.  By exploring the faults and flaws in many popular lock designs, you can prepare yourself not only for possible work in the penetration testing field, but also simply gain a much stronger knowledge about the best methods and practices for protecting your own infrastructure and personal property.\n\nPrizes. You like prizes. Everyone does. What's better than winning a contest with your newly acquired talents? After you run through one of the workshops, sign up for one of the contests and test your skill!",
 			"index": 103,
 			"end_date": "2018-01-21T12:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
@@ -1657,24 +1615,7 @@ Prizes. You like prizes. Everyone does. What's better than winning a contest wit
 			"location": "Barcode Shmarcode",
 			"demo": 0,
 			"entry_type": "Contest",
-			"description": "Hacking: the final frontier. These are the voyages of the starship ShmooCon. Its mission in its fourteenth-year: to explore strange new knowledge, to seek out new information and new methods, to boldly go where no one has gone before.
-
-Your away mission has one simple directive – Turn your barcode into something out of this world! The only requirement is that it must scan valid for ShmooCon 2018 registration. If it doesn't scan, you cannot enter the contest (although we may still award points for effort, so you know, try).
-
-Our species of choice is the Motorola DS4308.
-
-ENTRIES WILL BE JUDGED ON THE FOLLOWING CRITERIA
-
-• Best use of theme – Show your spaciness!
-• Originality – Creativity is like a tri-corder; use it for anything!
-• Best use of materials – Go where no one has gone before!
-The top 3 entries will each win a coveted ShmooCon barcode for ShmooCon 2019.
-
-JUST IN CASE YOU MISSED THAT – THE TOP 3 ENTRIES WILL EACH WIN A COVETED SHMOOCON BARCODE FOR SHMOOCON 2019.
-
-@ForgottenSec and someone yet to be named are serving as your judges. Look for them near registration on both Friday and Saturday (times will be posted in the program). Winners will be announced at closing ceremonies.
-
-Captain's log can be found here (https://blog.forgottensec.com/barcode-shmarcode/).",
+			"description": "Hacking: the final frontier. These are the voyages of the starship ShmooCon. Its mission in its fourteenth-year: to explore strange new knowledge, to seek out new information and new methods, to boldly go where no one has gone before.\n\nYour away mission has one simple directive – Turn your barcode into something out of this world! The only requirement is that it must scan valid for ShmooCon 2018 registration. If it doesn't scan, you cannot enter the contest (although we may still award points for effort, so you know, try).\n\nOur species of choice is the Motorola DS4308.\n\nENTRIES WILL BE JUDGED ON THE FOLLOWING CRITERIA\n\n• Best use of theme – Show your spaciness!\n\n• Originality – Creativity is like a tri-corder; use it for anything!\n\n• Best use of materials – Go where no one has gone before!  The top 3 entries will each win a coveted ShmooCon barcode for ShmooCon 2019.\n\nJUST IN CASE YOU MISSED THAT – THE TOP 3 ENTRIES WILL EACH WIN A COVETED SHMOOCON BARCODE FOR SHMOOCON 2019.\n\n@ForgottenSec and someone yet to be named are serving as your judges. Look for them near registration on both Friday and Saturday (times will be posted in the program). Winners will be announced at closing ceremonies.\n\nCaptain's log can be found here (https://blog.forgottensec.com/barcode-shmarcode/).",
 			"index": 104,
 			"end_date": "2018-01-21T12:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
@@ -1698,13 +1639,7 @@ Captain's log can be found here (https://blog.forgottensec.com/barcode-shmarcode
 			"location": "Chill-Out room",
 			"demo": 0,
 			"entry_type": "Lab",
-			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.
-
-So here's Labs-NG.
-
-ShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.
-
-We can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
+			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
 			"index": 105,
 			"end_date": "2018-01-20T10:45:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
@@ -1728,13 +1663,7 @@ We can't get away from the building part of labs, so having a little bit of stag
 			"location": "Chill-Out room",
 			"demo": 0,
 			"entry_type": "Lab",
-			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.
-
-So here's Labs-NG.
-
-ShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.
-
-We can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
+			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
 			"index": 106,
 			"end_date": "2018-01-20T11:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
@@ -1758,13 +1687,7 @@ We can't get away from the building part of labs, so having a little bit of stag
 			"location": "Chill-Out room",
 			"demo": 0,
 			"entry_type": "Lab",
-			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.
-
-So here's Labs-NG.
-
-ShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.
-
-We can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
+			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
 			"index": 107,
 			"end_date": "2018-01-20T11:45:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
@@ -1788,13 +1711,7 @@ We can't get away from the building part of labs, so having a little bit of stag
 			"location": "Chill-Out room",
 			"demo": 0,
 			"entry_type": "Lab",
-			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.
-
-So here's Labs-NG.
-
-ShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.
-
-We can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
+			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
 			"index": 108,
 			"end_date": "2018-01-20T12:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
@@ -1818,13 +1735,7 @@ We can't get away from the building part of labs, so having a little bit of stag
 			"location": "Chill-Out room",
 			"demo": 0,
 			"entry_type": "Lab",
-			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.
-
-So here's Labs-NG.
-
-ShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.
-
-We can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
+			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
 			"index": 109,
 			"end_date": "2018-01-20T15:45:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
@@ -1848,13 +1759,7 @@ We can't get away from the building part of labs, so having a little bit of stag
 			"location": "Chill-Out room",
 			"demo": 0,
 			"entry_type": "Lab",
-			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.
-
-So here's Labs-NG.
-
-ShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.
-
-We can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
+			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
 			"index": 110,
 			"end_date": "2018-01-20T6:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
@@ -1878,13 +1783,7 @@ We can't get away from the building part of labs, so having a little bit of stag
 			"location": "Chill-Out room",
 			"demo": 0,
 			"entry_type": "Lab",
-			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.
-
-So here's Labs-NG.
-
-ShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.
-
-We can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
+			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
 			"index": 111,
 			"end_date": "2018-01-20T16:45:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
@@ -1908,13 +1807,7 @@ We can't get away from the building part of labs, so having a little bit of stag
 			"location": "Chill-Out room",
 			"demo": 0,
 			"entry_type": "Lab",
-			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.
-
-So here's Labs-NG.
-
-ShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.
-
-We can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
+			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
 			"index": 112,
 			"end_date": "2018-01-20T17:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
@@ -1938,13 +1831,7 @@ We can't get away from the building part of labs, so having a little bit of stag
 			"location": "Chill-Out room",
 			"demo": 0,
 			"entry_type": "Lab",
-			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.
-
-So here's Labs-NG.
-
-ShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.
-
-We can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
+			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
 			"index": 113,
 			"end_date": "2018-01-20T17:15:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
@@ -1968,11 +1855,7 @@ We can't get away from the building part of labs, so having a little bit of stag
 			"location": "Shmooganography",
 			"demo": 0,
 			"entry_type": "Contest",
-			"description": "Shmooganography is back for its 12th year of hiding message at the con. For the n00bies, Shmooganography is a implementation from Steganography, which is the art of hiding messages \"in plain sight,\" such as using invisible ink that's revealed under a blacklight or emedding an image within an image. The challenge is simple; find the hidden messages around the con. The messages are not encrypted, but they are not obvious either. We use various steganographic techniques - some off the shelf and some home-rolled.
-
-For the fifth year, Praxis Engineering is sponsoring this challenge. There will be small prizes given to the first person (or team) who solves stages 1, 2, 3, 4 & 5. The person or team who conquors all five levels and guess the theme related to the CODEWORDs first wins the top prize of $500 (and we mean those crisp $100 bills - not those cheasy plastic gift card crap.)
-
-If you are still reading, then you must be interested in winning the cash. Perfect. Here is how you play. This year, you will help Tony Shmark fight Hydra's 1337 hackers as they attempt to overtake the con. As agents of Skilled Hackers Manipulating Offensive Objects (S.H.M.O.O.), you will use your steg skills to find clues across five stages of the con battlespace. The game is organized to challenge everyone with various skill levels. Don't worry if you get stumped; clues will be releases throughout the weekend.",
+			"description": "Shmooganography is back for its 12th year of hiding message at the con. For the n00bies, Shmooganography is a implementation from Steganography, which is the art of hiding messages \"in plain sight,\" such as using invisible ink that's revealed under a blacklight or emedding an image within an image. The challenge is simple; find the hidden messages around the con. The messages are not encrypted, but they are not obvious either. We use various steganographic techniques - some off the shelf and some home-rolled.\n\nFor the fifth year, Praxis Engineering is sponsoring this challenge. There will be small prizes given to the first person (or team) who solves stages 1, 2, 3, 4 & 5. The person or team who conquors all five levels and guess the theme related to the CODEWORDs first wins the top prize of $500 (and we mean those crisp $100 bills - not those cheasy plastic gift card crap.)\n\nIf you are still reading, then you must be interested in winning the cash. Perfect. Here is how you play. This year, you will help Tony Shmark fight Hydra's 1337 hackers as they attempt to overtake the con. As agents of Skilled Hackers Manipulating Offensive Objects (S.H.M.O.O.), you will use your steg skills to find clues across five stages of the con battlespace. The game is organized to challenge everyone with various skill levels. Don't worry if you get stumped; clues will be releases throughout the weekend.",
 			"index": 114,
 			"end_date": "2018-01-21T12:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
