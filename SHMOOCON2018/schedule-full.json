@@ -1,5 +1,5 @@
 {
-	"update_date": "2018-01-12T15:57:16-05:00-05:00",
+	"update_date": "2018-01-13T22:33:00-05:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -16,12 +16,60 @@
 			"includes": "",
 			"recommended": 0,
 			"link": "",
-			"location": "",
+			"location": "Registration",
 			"demo": 0,
-			"entry_type": "Official",
+			"entry_type": "Event",
 			"description": "",
 			"index": 99,
-			"end_date": "2018-01-19T15:00:00-05:00",
+			"end_date": "2018-01-19T22:00:00-05:00",
+			"updated_at": "2018-01-12T12:00:00-05:00",
+			"title": "Registration Opens"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "1iws6f666",
+			"start_date": "2018-01-20T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Registration",
+			"demo": 0,
+			"entry_type": "Event",
+			"description": "",
+			"index": 399,
+			"end_date": "2018-01-20T17:00:00-05:00",
+			"updated_at": "2018-01-12T12:00:00-05:00",
+			"title": "Registration Opens"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "1iws6f766",
+			"start_date": "2018-01-21T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Registration",
+			"demo": 0,
+			"entry_type": "Event",
+			"description": "",
+			"index": 499,
+			"end_date": "2018-01-21T14:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
 			"title": "Registration Opens"
 		},
@@ -410,7 +458,7 @@
 			"link": "",
 			"location": "",
 			"demo": 0,
-			"entry_type": "Official",
+			"entry_type": "Event",
 			"description": "",
 			"index": 99,
 			"end_date": "2018-01-20T16:00:00-05:00",
@@ -1182,7 +1230,7 @@
 			"link": "",
 			"location": "",
 			"demo": 0,
-			"entry_type": "Official",
+			"entry_type": "Event",
 			"description": "",
 			"index": 99,
 			"end_date": "2018-01-21T16:00:00-05:00",
@@ -1605,7 +1653,63 @@ The CTF is open to everyone, including non-conference attendees, but some challe
 
 Kaizen is sponsored by Booz Allen Hamilton. Check your Shmoocon program or visit https://shmoocon.kaizen-ctf.com for more details.",
 			"index": 102,
-			"end_date": "2018-01-20T12:00:00-05:00",
+			"end_date": "2018-01-19T22:00:00-05:00",
+			"updated_at": "2018-01-12T12:00:00-05:00",
+			"title": "Kaizen CTF"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kx4dwat",
+			"start_date": "2018-01-20T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "http://shmoocon.org/kaizen-ctf/",
+			"location": "Kaizen CTF",
+			"demo": 0,
+			"entry_type": "Contest",
+			"description": "What’s a hacker conference without a CTF?  The Kaizen team has been participating in and developing CTFs for the past several years, and this year we’re bringing our Jeopardy-style CTF to ShmooCon!  You can expect to see challenges involving cryptography, coding, forensics, web, binary reversing and exploitation.  The target difficulty is for CTF veterans and mid-level professionals, but there will be challenges for beginners as well as experts.
+
+The CTF is open to everyone, including non-conference attendees, but some challenges will only be available to those physically at the conference in the CTF room.  The competition will run from 2pm on Friday when the conference officially opens until noon on Sunday.  You can play as an individual or as a team.
+
+Kaizen is sponsored by Booz Allen Hamilton. Check your Shmoocon program or visit https://shmoocon.kaizen-ctf.com for more details.",
+			"index": 121,
+			"end_date": "2018-01-20T21:00:00-05:00",
+			"updated_at": "2018-01-12T12:00:00-05:00",
+			"title": "Kaizen CTF"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kx4dgve",
+			"start_date": "2018-01-21T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "http://shmoocon.org/kaizen-ctf/",
+			"location": "Kaizen CTF",
+			"demo": 0,
+			"entry_type": "Contest",
+			"description": "What’s a hacker conference without a CTF?  The Kaizen team has been participating in and developing CTFs for the past several years, and this year we’re bringing our Jeopardy-style CTF to ShmooCon!  You can expect to see challenges involving cryptography, coding, forensics, web, binary reversing and exploitation.  The target difficulty is for CTF veterans and mid-level professionals, but there will be challenges for beginners as well as experts.
+
+The CTF is open to everyone, including non-conference attendees, but some challenges will only be available to those physically at the conference in the CTF room.  The competition will run from 2pm on Friday when the conference officially opens until noon on Sunday.  You can play as an individual or as a team.
+
+Kaizen is sponsored by Booz Allen Hamilton. Check your Shmoocon program or visit https://shmoocon.kaizen-ctf.com for more details.",
+			"index": 122,
+			"end_date": "2018-01-21T12:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
 			"title": "Kaizen CTF"
 		},
@@ -1676,7 +1780,89 @@ JUST IN CASE YOU MISSED THAT – THE TOP 3 ENTRIES WILL EACH WIN A COVETED SHMOO
 
 Captain’s log can be found here (https://blog.forgottensec.com/barcode-shmarcode/).",
 			"index": 104,
-			"end_date": "2018-01-21T12:00:00-05:00",
+			"end_date": "2018-01-19T00:00:00-05:00",
+			"updated_at": "2018-01-12T12:00:00-05:00",
+			"title": "Barcode Shmarcode"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kxyupbc",
+			"start_date": "2018-01-20T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "http://shmoocon.org/barcode-shmarcode/",
+			"location": "Barcode Shmarcode",
+			"demo": 0,
+			"entry_type": "Contest",
+			"description": "Hacking: the final frontier. These are the voyages of the starship ShmooCon. Its mission in its fourteenth-year: to explore strange new knowledge, to seek out new information and new methods, to boldly go where no one has gone before.
+
+Your away mission has one simple directive – Turn your barcode into something out of this world! The only requirement is that it must scan valid for ShmooCon 2018 registration. If it doesn’t scan, you cannot enter the contest (although we may still award points for effort, so you know, try).
+
+Our species of choice is the Motorola DS4308.
+
+ENTRIES WILL BE JUDGED ON THE FOLLOWING CRITERIA
+
+• Best use of theme – Show your spaciness!
+• Originality – Creativity is like a tri-corder; use it for anything!
+• Best use of materials – Go where no one has gone before!
+The top 3 entries will each win a coveted ShmooCon barcode for ShmooCon 2019.
+
+JUST IN CASE YOU MISSED THAT – THE TOP 3 ENTRIES WILL EACH WIN A COVETED SHMOOCON BARCODE FOR SHMOOCON 2019.
+
+@ForgottenSec and someone yet to be named are serving as your judges. Look for them near registration on both Friday and Saturday (times will be posted in the program). Winners will be announced at closing ceremonies.
+
+Captain’s log can be found here (https://blog.forgottensec.com/barcode-shmarcode/).",
+			"index": 141,
+			"end_date": "2018-01-20T00:00:00-05:00",
+			"updated_at": "2018-01-12T12:00:00-05:00",
+			"title": "Barcode Shmarcode"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kx4hmmc",
+			"start_date": "2018-01-21T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "http://shmoocon.org/barcode-shmarcode/",
+			"location": "Barcode Shmarcode",
+			"demo": 0,
+			"entry_type": "Contest",
+			"description": "Hacking: the final frontier. These are the voyages of the starship ShmooCon. Its mission in its fourteenth-year: to explore strange new knowledge, to seek out new information and new methods, to boldly go where no one has gone before.
+
+Your away mission has one simple directive – Turn your barcode into something out of this world! The only requirement is that it must scan valid for ShmooCon 2018 registration. If it doesn’t scan, you cannot enter the contest (although we may still award points for effort, so you know, try).
+
+Our species of choice is the Motorola DS4308.
+
+ENTRIES WILL BE JUDGED ON THE FOLLOWING CRITERIA
+
+• Best use of theme – Show your spaciness!
+• Originality – Creativity is like a tri-corder; use it for anything!
+• Best use of materials – Go where no one has gone before!
+The top 3 entries will each win a coveted ShmooCon barcode for ShmooCon 2019.
+
+JUST IN CASE YOU MISSED THAT – THE TOP 3 ENTRIES WILL EACH WIN A COVETED SHMOOCON BARCODE FOR SHMOOCON 2019.
+
+@ForgottenSec and someone yet to be named are serving as your judges. Look for them near registration on both Friday and Saturday (times will be posted in the program). Winners will be announced at closing ceremonies.
+
+Captain’s log can be found here (https://blog.forgottensec.com/barcode-shmarcode/).",
+			"index": 142,
+			"end_date": "2018-01-21T14:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
 			"title": "Barcode Shmarcode"
 		},
@@ -1974,9 +2160,173 @@ For the fifth year, Praxis Engineering is sponsoring this challenge. There will 
 
 If you are still reading, then you must be interested in winning the cash. Perfect. Here is how you play. This year, you will help Tony Shmark fight Hydra's 1337 hackers as they attempt to overtake the con. As agents of Skilled Hackers Manipulating Offensive Objects (S.H.M.O.O.), you will use your steg skills to find clues across five stages of the con battlespace. The game is organized to challenge everyone with various skill levels. Don't worry if you get stumped; clues will be releases throughout the weekend.",
 			"index": 114,
-			"end_date": "2018-01-21T12:00:00-05:00",
+			"end_date": "2018-01-19T00:00:00-05:00",
 			"updated_at": "2018-01-12T12:00:00-05:00",
 			"title": "Shmooganography"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kx4dx2w",
+			"start_date": "2018-01-20T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "http://shmoocon.org/shmooganography/",
+			"location": "Shmooganography",
+			"demo": 0,
+			"entry_type": "Contest",
+			"description": "Shmooganography is back for its 12th year of hiding message at the con. For the n00bies, Shmooganography is a implementation from Steganography, which is the art of hiding messages \"in plain sight,\" such as using invisible ink that's revealed under a blacklight or emedding an image within an image. The challenge is simple; find the hidden messages around the con. The messages are not encrypted, but they are not obvious either. We use various steganographic techniques - some off the shelf and some home-rolled.
+
+For the fifth year, Praxis Engineering is sponsoring this challenge. There will be small prizes given to the first person (or team) who solves stages 1, 2, 3, 4 & 5. The person or team who conquors all five levels and guess the theme related to the CODEWORDs first wins the top prize of $500 (and we mean those crisp $100 bills - not those cheasy plastic gift card crap.)
+
+If you are still reading, then you must be interested in winning the cash. Perfect. Here is how you play. This year, you will help Tony Shmark fight Hydra's 1337 hackers as they attempt to overtake the con. As agents of Skilled Hackers Manipulating Offensive Objects (S.H.M.O.O.), you will use your steg skills to find clues across five stages of the con battlespace. The game is organized to challenge everyone with various skill levels. Don't worry if you get stumped; clues will be releases throughout the weekend.",
+			"index": 131,
+			"end_date": "2018-01-20T00:00:00-05:00",
+			"updated_at": "2018-01-12T12:00:00-05:00",
+			"title": "Shmooganography"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kx4hecw",
+			"start_date": "2018-01-21T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "http://shmoocon.org/shmooganography/",
+			"location": "Shmooganography",
+			"demo": 0,
+			"entry_type": "Contest",
+			"description": "Shmooganography is back for its 12th year of hiding message at the con. For the n00bies, Shmooganography is a implementation from Steganography, which is the art of hiding messages \"in plain sight,\" such as using invisible ink that's revealed under a blacklight or emedding an image within an image. The challenge is simple; find the hidden messages around the con. The messages are not encrypted, but they are not obvious either. We use various steganographic techniques - some off the shelf and some home-rolled.
+
+For the fifth year, Praxis Engineering is sponsoring this challenge. There will be small prizes given to the first person (or team) who solves stages 1, 2, 3, 4 & 5. The person or team who conquors all five levels and guess the theme related to the CODEWORDs first wins the top prize of $500 (and we mean those crisp $100 bills - not those cheasy plastic gift card crap.)
+
+If you are still reading, then you must be interested in winning the cash. Perfect. Here is how you play. This year, you will help Tony Shmark fight Hydra's 1337 hackers as they attempt to overtake the con. As agents of Skilled Hackers Manipulating Offensive Objects (S.H.M.O.O.), you will use your steg skills to find clues across five stages of the con battlespace. The game is organized to challenge everyone with various skill levels. Don't worry if you get stumped; clues will be releases throughout the weekend.",
+			"index": 132,
+			"end_date": "2018-01-21T14:00:00-05:00",
+			"updated_at": "2018-01-12T12:00:00-05:00",
+			"title": "Shmooganography"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kx4dtgw",
+			"start_date": "2018-01-19T15:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "http://shmoocon.org/t-shirt-charities/",
+			"location": "Registration",
+			"demo": 0,
+			"entry_type": "Event",
+			"description": "We like to give things away. T-Shirt Charities allows us do that – twice. First, we get to give you a t-shirt in exchange for a $15 donation. Then we get to give three wonderful organizations a bucket of cash at the end of the conference.
+
+HERE’S HOW IT WORKS
+
+T-shirt sales only happen during the conference itself. Anytime after 3:00 PM on Friday, you can head to registration and hand us $15. We give you the t-shirt of your choice and a plastic chip. You drop that chip in the charity bucket of your choice. On Sunday we convert those chips back to dollars and gift some charities with some extra funds. It’s all pretty simple, everybody wins and in our opinion it doesn’t get much better than that.
+
+THIS YEAR’S CHARITIES:
+
+Electronic Frontier Foundation is the leading civil liberties group defending your rights in the digital world.
+
+Hackers for Charity is a non-profit organization that leverages the skills of technologists, solving technology challenges for various non-profits and provide food, equipment, job training and computer education to the world’s poorest citizens.
+
+There will be one more charity added to this list – we are researching possibilities and will update this page soon.",
+			"index": 115,
+			"end_date": "2018-01-19T16:30:00-05:00",
+			"updated_at": "2018-01-13T12:00:00-05:00",
+			"title": "T-Shirt Charities"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kx4dfxw",
+			"start_date": "2018-01-20T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "http://shmoocon.org/t-shirt-charities/",
+			"location": "Registration",
+			"demo": 0,
+			"entry_type": "Event",
+			"description": "We like to give things away. T-Shirt Charities allows us do that – twice. First, we get to give you a t-shirt in exchange for a $15 donation. Then we get to give three wonderful organizations a bucket of cash at the end of the conference.
+
+HERE’S HOW IT WORKS
+
+T-shirt sales only happen during the conference itself. Anytime after 3:00 PM on Friday, you can head to registration and hand us $15. We give you the t-shirt of your choice and a plastic chip. You drop that chip in the charity bucket of your choice. On Sunday we convert those chips back to dollars and gift some charities with some extra funds. It’s all pretty simple, everybody wins and in our opinion it doesn’t get much better than that.
+
+THIS YEAR’S CHARITIES:
+
+Electronic Frontier Foundation is the leading civil liberties group defending your rights in the digital world.
+
+Hackers for Charity is a non-profit organization that leverages the skills of technologists, solving technology challenges for various non-profits and provide food, equipment, job training and computer education to the world’s poorest citizens.
+
+There will be one more charity added to this list – we are researching possibilities and will update this page soon.",
+			"index": 116,
+			"end_date": "2018-01-20T17:00:00-05:00",
+			"updated_at": "2018-01-13T12:00:00-05:00",
+			"title": "T-Shirt Charities"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kxcefxw",
+			"start_date": "2018-01-21T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "http://shmoocon.org/t-shirt-charities/",
+			"location": "Registration",
+			"demo": 0,
+			"entry_type": "Event",
+			"description": "We like to give things away. T-Shirt Charities allows us do that – twice. First, we get to give you a t-shirt in exchange for a $15 donation. Then we get to give three wonderful organizations a bucket of cash at the end of the conference.
+
+HERE’S HOW IT WORKS
+
+T-shirt sales only happen during the conference itself. Anytime after 3:00 PM on Friday, you can head to registration and hand us $15. We give you the t-shirt of your choice and a plastic chip. You drop that chip in the charity bucket of your choice. On Sunday we convert those chips back to dollars and gift some charities with some extra funds. It’s all pretty simple, everybody wins and in our opinion it doesn’t get much better than that.
+
+THIS YEAR’S CHARITIES:
+
+Electronic Frontier Foundation is the leading civil liberties group defending your rights in the digital world.
+
+Hackers for Charity is a non-profit organization that leverages the skills of technologists, solving technology challenges for various non-profits and provide food, equipment, job training and computer education to the world’s poorest citizens.
+
+There will be one more charity added to this list – we are researching possibilities and will update this page soon.",
+			"index": 117,
+			"end_date": "2018-01-21T14:00:00-05:00",
+			"updated_at": "2018-01-13T12:00:00-05:00",
+			"title": "T-Shirt Charities"
 		}
 	]
 }
