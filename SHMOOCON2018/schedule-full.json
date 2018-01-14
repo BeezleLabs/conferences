@@ -1,5 +1,5 @@
 {
-	"update_date": "2018-01-13T22:33:00-05:00",
+	"update_date": "2018-01-14T12:22:00-05:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -1822,7 +1822,7 @@ Captain’s log can be found here (https://blog.forgottensec.com/barcode-shmarco
 			"includes": "",
 			"recommended": 0,
 			"link": "http://shmoocon.org/shmoocon-labs/",
-			"location": "Chill-Out room",
+			"location": "ShmooCon Labs",
 			"demo": 0,
 			"entry_type": "Lab",
 			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
@@ -1846,7 +1846,7 @@ Captain’s log can be found here (https://blog.forgottensec.com/barcode-shmarco
 			"includes": "",
 			"recommended": 0,
 			"link": "http://shmoocon.org/shmoocon-labs/",
-			"location": "Chill-Out room",
+			"location": "ShmooCon Labs",
 			"demo": 0,
 			"entry_type": "Lab",
 			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
@@ -1870,7 +1870,7 @@ Captain’s log can be found here (https://blog.forgottensec.com/barcode-shmarco
 			"includes": "",
 			"recommended": 0,
 			"link": "http://shmoocon.org/shmoocon-labs/",
-			"location": "Chill-Out room",
+			"location": "ShmooCon Labs",
 			"demo": 0,
 			"entry_type": "Lab",
 			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
@@ -1894,7 +1894,7 @@ Captain’s log can be found here (https://blog.forgottensec.com/barcode-shmarco
 			"includes": "",
 			"recommended": 0,
 			"link": "http://shmoocon.org/shmoocon-labs/",
-			"location": "Chill-Out room",
+			"location": "ShmooCon Labs",
 			"demo": 0,
 			"entry_type": "Lab",
 			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
@@ -1918,7 +1918,7 @@ Captain’s log can be found here (https://blog.forgottensec.com/barcode-shmarco
 			"includes": "",
 			"recommended": 0,
 			"link": "http://shmoocon.org/shmoocon-labs/",
-			"location": "Chill-Out room",
+			"location": "ShmooCon Labs",
 			"demo": 0,
 			"entry_type": "Lab",
 			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
@@ -1942,7 +1942,7 @@ Captain’s log can be found here (https://blog.forgottensec.com/barcode-shmarco
 			"includes": "",
 			"recommended": 0,
 			"link": "http://shmoocon.org/shmoocon-labs/",
-			"location": "Chill-Out room",
+			"location": "ShmooCon Labs",
 			"demo": 0,
 			"entry_type": "Lab",
 			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
@@ -1966,7 +1966,7 @@ Captain’s log can be found here (https://blog.forgottensec.com/barcode-shmarco
 			"includes": "",
 			"recommended": 0,
 			"link": "http://shmoocon.org/shmoocon-labs/",
-			"location": "Chill-Out room",
+			"location": "ShmooCon Labs",
 			"demo": 0,
 			"entry_type": "Lab",
 			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
@@ -1990,7 +1990,7 @@ Captain’s log can be found here (https://blog.forgottensec.com/barcode-shmarco
 			"includes": "",
 			"recommended": 0,
 			"link": "http://shmoocon.org/shmoocon-labs/",
-			"location": "Chill-Out room",
+			"location": "ShmooCon Labs",
 			"demo": 0,
 			"entry_type": "Lab",
 			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
@@ -2014,7 +2014,7 @@ Captain’s log can be found here (https://blog.forgottensec.com/barcode-shmarco
 			"includes": "",
 			"recommended": 0,
 			"link": "http://shmoocon.org/shmoocon-labs/",
-			"location": "Chill-Out room",
+			"location": "ShmooCon Labs",
 			"demo": 0,
 			"entry_type": "Lab",
 			"description": "Ultimately Labs is all about participants learning, in a challenging, fast-paced environment while still delivering a reliable network to the conference. Over the last few years we've moved to a more virtualized infrastructure, pre-staged more infrastructure components, adopted more advanced network gear, and even tried to address the pre-conference craziness that sets in the day before the con starts. Overall, it worked great. Maybe too great? As Labs has matured, we lost a bit of the original edge and some of the challenge associated with throwing together a network in a hotel right before the con. We want labs to be engaging and education not just for the labs attendees but for the conference attendees as well. After some discussion, soul searching, and beers, we decided it was time for a change.\n\nSo here's Labs-NG.\n\nShmooCon labs will still be responsible for building and operating the network and systems the conference needs. So we will still be staging some infrastructure ahead of time to make sure we can at least constitute a functional network. That said, we're going to try to add structure to both the building and the operating of the network.\n\nWe can't get away from the building part of labs, so having a little bit of staging or even a plan-B in terms of having something up the sleeve if things go totally sideways is an option. But in addition to that, we would like to complement this building part of part with something more formal in terms of Monitoring, Visualization and some hands-on investigation style/ threat-hunting-palooza.",
@@ -2210,6 +2210,78 @@ There will be one more charity added to this list – we are researching possibi
 			"end_date": "2018-01-21T14:00:00-05:00",
 			"updated_at": "2018-01-13T12:00:00-05:00",
 			"title": "T-Shirt Charities"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kxceabc",
+			"start_date": "2018-01-19T12:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://twitter.com/wctf_us",
+			"location": "Wireless CTF",
+			"demo": 0,
+			"entry_type": "Contest",
+			"description": "",
+			"index": 193,
+			"end_date": "2018-01-19T22:00:00-05:00",
+			"updated_at": "2018-01-14T12:00:00-05:00",
+			"title": "Wireless CTF"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kxce123",
+			"start_date": "2018-01-20T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://twitter.com/wctf_us",
+			"location": "Wireless CTF",
+			"demo": 0,
+			"entry_type": "Contest",
+			"description": "",
+			"index": 194,
+			"end_date": "2018-01-20T21:00:00-05:00",
+			"updated_at": "2018-01-14T12:00:00-05:00",
+			"title": "Wireless CTF"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kxce456",
+			"start_date": "2018-01-21T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://twitter.com/wctf_us",
+			"location": "Wireless CTF",
+			"demo": 0,
+			"entry_type": "Contest",
+			"description": "",
+			"index": 195,
+			"end_date": "2018-01-21T12:00:00-05:00",
+			"updated_at": "2018-01-14T12:00:00-05:00",
+			"title": "Wireless CTF"
 		}
 	]
 }
