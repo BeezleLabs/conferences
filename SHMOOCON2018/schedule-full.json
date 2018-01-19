@@ -2196,6 +2196,78 @@
 			"end_date": "2018-01-21T12:00:00-05:00",
 			"updated_at": "2018-01-14T12:00:00-05:00",
 			"title": "Wireless CTF"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kxc1234",
+			"start_date": "2018-01-19T12:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://twitter.com/shmooconpuzzle",
+			"location": "Chill Out",
+			"demo": 0,
+			"entry_type": "Contest",
+			"description": "",
+			"index": 196,
+			"end_date": "2018-01-19T00:00:00-05:00",
+			"updated_at": "2018-01-19T15:54:00-05:00",
+			"title": "ShmooCon Puzzle"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kxc1235",
+			"start_date": "2018-01-20T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://twitter.com/shmooconpuzzle",
+			"location": "Chill Out",
+			"demo": 0,
+			"entry_type": "Contest",
+			"description": "",
+			"index": 197,
+			"end_date": "2018-01-20T00:00:00-05:00",
+			"updated_at": "2018-01-19T15:54:00-05:00",
+			"title": "ShmooCon Puzzle"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      "who" : [
+        {
+          "indexsp" : "0",
+          "who" : ""
+        }
+      ],
+			"tool": 0,
+			"id": "a4kxc1236",
+			"start_date": "2018-01-21T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://twitter.com/shmooconpuzzle",
+			"location": "Chill Out",
+			"demo": 0,
+			"entry_type": "Contest",
+			"description": "",
+			"index": 198,
+			"end_date": "2018-01-21T12:00:00-05:00",
+			"updated_at": "2018-01-19T15:54:00-05:00",
+			"title": "ShmooCon Puzzle"
 		}
 	]
 }
