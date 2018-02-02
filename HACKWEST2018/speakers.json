@@ -1,0 +1,157 @@
+{
+	"speakers": [
+		{
+			"sptitle": "",
+			"who": "Tim \"Lanmaster\" Tomes",
+			"indexsp": 1800,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@LaNMaSteR53",
+			"bio": "Christian, father, husband, veteran, code slinger, aspiring difference-maker and hacking enthusiast."
+		},
+		{
+			"sptitle": "",
+			"who": "FuzzyNop",
+			"indexsp": 1802,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@FuzzyNop",
+			"bio": ""
+		},
+		{
+			"sptitle": "",
+			"who": "Erich Kron",
+			"indexsp": 1801,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@ErichKron",
+			"bio": "Security Awareness Advocate at KnowBe4, is a veteran information security professional with over 20 years’ experience in the medical, aerospace manufacturing and defense fields. He is the former security manager for the US Army’s 2nd Regional Cyber Center-Western Hemisphere and holds CISSP, CISSP-ISSAP, MCITP and ITIL v3 certifications, among others. Erich has worked with information security professionals around the world to provide the tools, training and educational opportunities to succeed in Information Security."
+		},
+		{
+			"sptitle": "",
+			"who": "Jordan Drysdale",
+			"indexsp": 1803,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@Rev10D",
+			"bio": ""
+		},
+		{
+			"sptitle": "",
+			"who": "Kent Ickler",
+			"indexsp": 1804,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@KentIckler",
+			"bio": ""
+		},
+		{
+			"sptitle": "",
+			"who": "Sherrie Cowley",
+			"indexsp": 1805,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@sherriecowley",
+			"bio": ""
+		},
+		{
+			"sptitle": "",
+			"who": "Pau Muñoz",
+			"indexsp": 1806,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@devilafant",
+			"bio": "Pau Muñoz is a computer security enthusiast and a researcher at the university of Girona in Spain. He holds a degree in computer engineering and OSWP, OSCP and OSCE certificates. He started his career in computer security at the age of 16 and since then he went through different positions related to vulnerability analysis and security research focusing purple teaming and creative network defense strategy."
+		},
+		{
+			"sptitle": "",
+			"who": "Morgan Roman",
+			"indexsp": 1807,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@distrustCaution",
+			"bio": "Morgan Roman works on the application security team at DocuSign. He started his career writing integration tests for web applications and APIs as a software development engineer in test. He is passionate about finding ways to automate security testing and make it part of the deployment process."
+		},
+		{
+			"sptitle": "",
+			"who": "Waylon Granger",
+			"indexsp": 1808,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@professor__plum",
+			"bio": "Waylon Grange is an experienced reverse engineer, developer, and digital forensics examiner. He holds a graduate degree in Information Security from Johns Hopkins University and has worked numerous computer incident investigations spanning the globe. He currently works as a Senior Threat Researcher for Symantec and previously worked for the Department of Defense performing vulnerability research, software development, and Computer Network Operations."
+		},
+		{
+			"sptitle": "",
+			"who": "Gabriel Ryan",
+			"indexsp": 1809,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "",
+			"bio": ""
+		},
+		{
+			"sptitle": "",
+			"who": "Justin Larson",
+			"indexsp": 1810,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@phant0mtrav3ler",
+			"bio": ""
+		},
+		{
+			"sptitle": "",
+			"who": "Seth Law",
+			"indexsp": 1811,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@sethlaw",
+			"bio": ""
+		},
+		{
+			"sptitle": "",
+			"who": "Tanya Janca",
+			"indexsp": 1812,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@SheHacksPurple",
+			"bio": "Tanya is a developer advocate specializing in application security; evangelizing about software security through public speaking, her open source project OWASP DevSlop, and various forms of teaching via workshops, blogs and community events.  As an ethical hacker, OWASP Project and Chapter Leader, software developer, effective altruist and professional computer geek of 20+ years, she is a person who is truly fascinated by the ‘science’ of computer science."
+		},
+		{
+			"sptitle": "",
+			"who": "Adam Steed",
+			"indexsp": 1813,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "",
+			"bio": ""
+		},
+		{
+			"sptitle": "",
+			"who": "Robert Neel",
+			"indexsp": 1814,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@redeemedHacker",
+			"bio": "Robert Neel has fourteen years experience as a system/network administrator and security consultant/engineer/analyst in the private sector.  He is currently employed by a large financial institution where he established the Red Team and continues to lead it.  In addition, he has seven years experience in the government sector where he performed Vulnerability Analysis and Exploitation for the NSA.  He has experience with twenty-three programming languages and has written complex programs for both Offense and Defense in fifteen of those languages.  Robert is also the founder of PENConsultants.com.  When he is not Red Teaming, Robert loves to spend time with his wife and two children. They enjoy traveling, going to theme parks, and building their dream house together."
+		},
+		{
+			"sptitle": "",
+			"who": "David Thompson",
+			"indexsp": 1815,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": ""@dirty_tizzle,
+			"bio": "David Thompson has 13 years experience in the security field.  He is currently employed by a large financial institution where he leads the New Detective Capabilities Project and is an active member of the Red Team.  He started his security road trip in the Air Force doing Vulnerability Assessments for the Air Force Blue Team and working Active Hunt Ops at NSA (OIF x2).  He then took a Pen Tester position with Johns Hopkins Applied Physics Lab working on Space Systems and other DoD projects.  Wanting to get back to TX, he took a Pen Tester job with the Air Force Blue Team (Threat Emulation Cell) working on Space, Aircraft and other Weapon Systems.  When not on the keyboard, he loves spending time with his wife and three girls.  They enjoy RVing, fishing, hunting and playing sports."
+		},
+		{
+			"sptitle": "",
+			"who": "Jayme Hancock",
+			"indexsp": 1816,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@highmeh",
+			"bio": "Jayme is a penetration tester with AppSec Consulting and former systems administrator with a strong interest in network security, physical security, and active defense. He holds the OSCP, CISSP, GCED, and CEH certifications. Jayme resides in Southern California and spends his free time off-roading, camping, traveling, and failing at astrophotography."
+		},
+		{
+			"sptitle": "",
+			"who": "Marley",
+			"indexsp": 1817,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "@mkr_ultra",
+			"bio": "Marley is a blue team engineer with 14 West. In her spare time she reads a lot and cries about space."
+		},
+		{
+			"sptitle": "",
+			"who": "Joe Gray",
+			"indexsp": 1818,
+			"last_update": "2018-02-02T12:00:00-07:00",
+			"media": "",
+			"bio": "Marley is a blue team engineer with 14 West. In her spare time she reads a lot and cries about space."
+		}
+	],
+	"update_date": "2018-02-02T10:00:00-07:00"
+}
