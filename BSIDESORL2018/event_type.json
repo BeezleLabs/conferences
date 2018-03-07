@@ -1,0 +1,23 @@
+{
+   "event_types" : [
+      {
+         "event_type" : "Contest"
+      },
+      {
+         "event_type" : "Training"
+      },
+      {
+         "event_type" : "Official"
+      },
+      {
+         "event_type" : "Workshop"
+      },
+      {
+         "event_type" : "Village"
+      },
+      {
+         "event_type" : "Event"
+      }
+   ],
+   "update_date" : "2018-02-01T10:00:00"
+}

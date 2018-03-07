@@ -1,0 +1,29 @@
+{
+	"update_date": "2018-02-02T10:59:00-07:00",
+	"schedule": [
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      			"who" : [
+        			{
+          			"indexsp" : "0",
+          			"who" : ""
+        			}
+      			],
+			"tool": 0,
+			"id": "hw1801",
+			"start_date": "2018-03-021T08:30:00-07:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Registration",
+			"demo": 0,
+			"entry_type": "Event",
+			"description": "HackWest Registration will be open",
+			"index": 1801,
+			"end_date": "2018-03-021T17:30:00-07:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Registration"
+		}
+	]
+}
