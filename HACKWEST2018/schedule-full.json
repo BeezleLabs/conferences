@@ -1,5 +1,5 @@
 {
-	"update_date": "2018-03-13T14:00:00-06:00",
+	"update_date": "2018-03-13T14:02:00-06:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -184,7 +184,7 @@
       			],
 			"tool": 1,
 			"id": "hw1808",
-			"start_date": "2018-03-21T09:30:00-06:00",
+			"start_date": "2018-03-09T09:30:00-06:00",
 			"includes": "",
 			"recommended": 0,
 			"link": "https://www.hackwest.org/register/training/3",
@@ -193,8 +193,8 @@
 			"entry_type": "Training",
 			"description": "Wireless is everywhere, join us to learn to hack and defend wireless networks. A Practical Wireless Hacking and Defense is a hands-on focused course that will introduce students to SDR frequency investigations, 802.11 technologies, vulnerabilities and the methodology of standard attacks and defenses. Penetration testers, security analysts, and defenders will learn techniques to analyze, attack, and defend wireless networks large and small. Attacks include 4-way handshake PSK capture and cracking, KRACK, 802.1x credential theft, frequency jamming, and replay. Defense focuses on identification, analysis, mitigation, and infrastructure design. Hands-on labs will drive the course material and are the primary focus throughout this class. Students will use and keep all included course provided materials: SDR hardware, wireless equipment, USB thumbdrive and course workbook.\n\nCourse Description\n\nPractical Wireless Hacking and Defense is designed to introduce students to a time proven methodology for attacking and defending all manner of wireless networks. The course will cover WEP attacks, WPS PIN brute-forcing techniques, and WPA and WPA2, and 802.1x radius attacks and defenses. In discussing WPA networks, students will be introduced to the four-way handshake capture process, cracking, and defense. Evil-twin AP attacks will also demonstrate how WPA-Enterprise protected networks can also be compromised.\n\nDuring this course, students will learn how the recent Key Reinstallation Attack (Krack) methodology can be utilized to access encrypted communication. Students will be observing and identifying wireless attacks, learn defense mechanisms, and learn how to limit a breach potential with pre-emptive secure network design.\n\nStudents will also have the opportunity to interact with an 802.1x Radius-Authentication WPA enterprise deployment where they will be expected to perform an evil twin AP attack. Corporate user hashed credentials will then be cracked. Various pivots will be demonstrated as each type of wireless attack is successfully executed.\n\nFinally, students will be exposed to simple Software Defined Radio projects that expose weaknesses in everyday products that employ wireless technologies. This abbreviated section of the course will focus on radio frequency modulation techniques, signals that can be intercepted in the Industrial, Scientific, and Medical (ISM) bands, and inherent weaknesses that may exist when engineers do not use industry accepted secure protocols.",
 			"index": 1808,
-			"end_date": "2018-03-21T17:30:00-06:00",
-			"updated_at": "2018-02-02T12:00:00-06:00",
+			"end_date": "2018-03-12T17:30:00-06:00",
+			"updated_at": "2018-03-13T12:00:00-06:00",
 			"title": "A Practical Approach to Wireless Hacking and Defense: Hands-On & Live Fire"
 		},
 		{
