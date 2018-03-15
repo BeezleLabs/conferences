@@ -1,5 +1,5 @@
 {
-	"update_date": "2018-03-13T14:02:00-06:00",
+	"update_date": "2018-03-15T11:00:00-06:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -173,57 +173,41 @@
 			"exploit": 1,
 			"dctv_channel": 0,
       			"who" : [
-        			{
-          			"indexsp" : "1803",
-          			"who" : ""
-        			},
-        			{
-          			"indexsp" : "1804",
-          			"who" : ""
-        			}
       			],
 			"tool": 1,
 			"id": "hw1808",
 			"start_date": "2018-03-09T09:30:00-06:00",
 			"includes": "",
 			"recommended": 0,
-			"link": "https://www.hackwest.org/register/training/3",
+			"link": "",
 			"location": "Training Three",
 			"demo": 1,
 			"entry_type": "Training",
-			"description": "Wireless is everywhere, join us to learn to hack and defend wireless networks. A Practical Wireless Hacking and Defense is a hands-on focused course that will introduce students to SDR frequency investigations, 802.11 technologies, vulnerabilities and the methodology of standard attacks and defenses. Penetration testers, security analysts, and defenders will learn techniques to analyze, attack, and defend wireless networks large and small. Attacks include 4-way handshake PSK capture and cracking, KRACK, 802.1x credential theft, frequency jamming, and replay. Defense focuses on identification, analysis, mitigation, and infrastructure design. Hands-on labs will drive the course material and are the primary focus throughout this class. Students will use and keep all included course provided materials: SDR hardware, wireless equipment, USB thumbdrive and course workbook.\n\nCourse Description\n\nPractical Wireless Hacking and Defense is designed to introduce students to a time proven methodology for attacking and defending all manner of wireless networks. The course will cover WEP attacks, WPS PIN brute-forcing techniques, and WPA and WPA2, and 802.1x radius attacks and defenses. In discussing WPA networks, students will be introduced to the four-way handshake capture process, cracking, and defense. Evil-twin AP attacks will also demonstrate how WPA-Enterprise protected networks can also be compromised.\n\nDuring this course, students will learn how the recent Key Reinstallation Attack (Krack) methodology can be utilized to access encrypted communication. Students will be observing and identifying wireless attacks, learn defense mechanisms, and learn how to limit a breach potential with pre-emptive secure network design.\n\nStudents will also have the opportunity to interact with an 802.1x Radius-Authentication WPA enterprise deployment where they will be expected to perform an evil twin AP attack. Corporate user hashed credentials will then be cracked. Various pivots will be demonstrated as each type of wireless attack is successfully executed.\n\nFinally, students will be exposed to simple Software Defined Radio projects that expose weaknesses in everyday products that employ wireless technologies. This abbreviated section of the course will focus on radio frequency modulation techniques, signals that can be intercepted in the Industrial, Scientific, and Medical (ISM) bands, and inherent weaknesses that may exist when engineers do not use industry accepted secure protocols.",
+			"description": "",
 			"index": 1808,
 			"end_date": "2018-03-12T17:30:00-06:00",
 			"updated_at": "2018-03-13T12:00:00-06:00",
-			"title": "A Practical Approach to Wireless Hacking and Defense: Hands-On & Live Fire"
+			"title": ""
 		},
 		{
 			"exploit": 1,
 			"dctv_channel": 0,
       			"who" : [
-        			{
-          			"indexsp" : "1803",
-          			"who" : ""
-        			},
-        			{
-          			"indexsp" : "1804",
-          			"who" : ""
-        			}
       			],
 			"tool": 1,
 			"id": "hw1809",
 			"start_date": "2018-03-22T09:30:00-06:00",
 			"includes": "",
 			"recommended": 0,
-			"link": "https://www.hackwest.org/register/training/3",
+			"link": "",
 			"location": "Training Three",
 			"demo": 1,
 			"entry_type": "Training",
-			"description": "Wireless is everywhere, join us to learn to hack and defend wireless networks. A Practical Wireless Hacking and Defense is a hands-on focused course that will introduce students to SDR frequency investigations, 802.11 technologies, vulnerabilities and the methodology of standard attacks and defenses. Penetration testers, security analysts, and defenders will learn techniques to analyze, attack, and defend wireless networks large and small. Attacks include 4-way handshake PSK capture and cracking, KRACK, 802.1x credential theft, frequency jamming, and replay. Defense focuses on identification, analysis, mitigation, and infrastructure design. Hands-on labs will drive the course material and are the primary focus throughout this class. Students will use and keep all included course provided materials: SDR hardware, wireless equipment, USB thumbdrive and course workbook.\n\nCourse Description\n\nPractical Wireless Hacking and Defense is designed to introduce students to a time proven methodology for attacking and defending all manner of wireless networks. The course will cover WEP attacks, WPS PIN brute-forcing techniques, and WPA and WPA2, and 802.1x radius attacks and defenses. In discussing WPA networks, students will be introduced to the four-way handshake capture process, cracking, and defense. Evil-twin AP attacks will also demonstrate how WPA-Enterprise protected networks can also be compromised.\n\nDuring this course, students will learn how the recent Key Reinstallation Attack (Krack) methodology can be utilized to access encrypted communication. Students will be observing and identifying wireless attacks, learn defense mechanisms, and learn how to limit a breach potential with pre-emptive secure network design.\n\nStudents will also have the opportunity to interact with an 802.1x Radius-Authentication WPA enterprise deployment where they will be expected to perform an evil twin AP attack. Corporate user hashed credentials will then be cracked. Various pivots will be demonstrated as each type of wireless attack is successfully executed.\n\nFinally, students will be exposed to simple Software Defined Radio projects that expose weaknesses in everyday products that employ wireless technologies. This abbreviated section of the course will focus on radio frequency modulation techniques, signals that can be intercepted in the Industrial, Scientific, and Medical (ISM) bands, and inherent weaknesses that may exist when engineers do not use industry accepted secure protocols.",
+			"description": "",
 			"index": 1809,
 			"end_date": "2018-03-22T17:30:00-06:00",
 			"updated_at": "2018-02-02T12:00:00-06:00",
-			"title": "A Practical Approach to Wireless Hacking and Defense: Hands-On & Live Fire"
+			"title": "",
 		},
 		{
 			"exploit": 0,
@@ -688,6 +672,34 @@
 			"description": "Have you ever detected an attack while it was happening? Have you ever been the attacker? Join us for our Red vs. Blue competition, a hands-on workshop where participants experience security attacks from the perspective of an attacker and a defender. This session runs for approximately two hours in duration. We will run a morning session and an afternoon session.\n\nAs a Blue Team participant, you're monitoring a live environment looking for anomalous behaviors. It’s your job to identify the breach and make recommendations for remediation. Blue team players will get hands-on experience using tools for attack detection.\n\nRed Team participants will receive a playbook with step-by-step instructions for a series of attacks against the Blue Team. All Red Team tools are included with Kali Linux.\n\nThis event is designed for players of all abilities.\n\nPLEASE BRING: A laptop capable of booting Kali Linux is required OR an SSH client, such as putty or terminal.\n\nRvB has 16 available slots with teams of two facing off against each other. Please indicate if you’d like to be Red or Blue team and if you’d like to be paired with a particular teammate; we’ll do our best to accommodate.\n\nThe RvB competition will start on time. Please arrive early, open seats will be given to alternates.\n\nPlease contact jpierson at compunet dot biz with questions with Red Vs. Blue.",
 			"updated_at": "2018-03-13T12:00:00-06:00",
 			"title": "Compunet Red vs Blue Workshop"
+		},
+		{
+			"exploit": 1,
+			"dctv_channel": 0,
+      			"who" : [
+        			{
+          			"indexsp" : "1803",
+          			"who" : ""
+        			},
+        			{
+          			"indexsp" : "1804",
+          			"who" : ""
+        			}
+      			],
+			"tool": 1,
+			"id": "hw1829",
+			"index": 1829,
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Track Two",
+			"demo": 1,
+			"entry_type": "Official",
+			"description": "Wireless technologies are considered an easy target for red teams and hackers.  Infrastructure design and management is slow to respond to the barrage of new attack methods and vulnerabilities within standardized wireless protocols.  Watch as Jordan and Kent explain how rethinking wireless infrastructure can immobilize attackers in their tracks, leaving them stranded in a wireless wasteland.\n\nThe duo discusses how typical wireless deployments don’t afford security despite providing the perception of a secure environment.  Blue-Teams will learn how attackers can be identified and how to make the attacks irrelevant by reconsidering the safety of encrypted WIFI to be the truly hostile and untrusted environment it is.",
+			"start_date": "2018-03-23T15:30:00-06:00",
+			"end_date": "2018-03-23T16:30:00-06:00",
+			"updated_at": "2018-03-15T11:00:00-06:00",
+			"title": "Don’t Suck at Wireless"
 		},
 	]
 }
