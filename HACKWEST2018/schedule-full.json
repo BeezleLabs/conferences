@@ -1,5 +1,5 @@
 {
-	"update_date": "2018-03-15T11:44:00-06:00",
+	"update_date": "2018-03-15T12:18:00-06:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -196,7 +196,7 @@
       			],
 			"tool": 1,
 			"id": "hw1809",
-			"start_date": "2018-03-22T09:30:00-06:00",
+			"start_date": "2018-03-12T09:30:00-06:00",
 			"includes": "",
 			"recommended": 0,
 			"link": "",
@@ -205,8 +205,8 @@
 			"entry_type": "Training",
 			"description": "",
 			"index": 1809,
-			"end_date": "2018-03-22T17:30:00-06:00",
-			"updated_at": "2018-02-02T12:00:00-06:00",
+			"end_date": "2018-03-12T17:30:00-06:00",
+			"updated_at": "2018-03-15T12:18:00-06:00",
 			"title": "",
 		},
 		{
@@ -278,8 +278,8 @@
 			"entry_type": "Official",
 			"description": "Ransomware is spreading at an alarming pace and infecting networks across all industries and company sizes, primarily though phishing attacks. The cyber criminals behind the attacks are furiously innovating and keeping ahead of the defenses. In this session we will have an interactive discussion related to the latest in ransomware threats and how to best protect your organization and yourself against this growing threat.\nThe presenter will educate attendees about the newest features of ransomware strains designed to evade detection and spread in new and creative ways. He will also discuss recent attacks and how the organizations could have better protected themselves.\n\nThe session is intended for an intermediate experience level and will examine:\n-Current phishing trends\n-Ransomware and how it is infecting networks\n-Effective mitigation strategies\n-Recovering from an attack",
 			"end_date": "2018-03-23T10:30:00-06:00",
-			"updated_at": "2018-02-02T12:00:00-06:00",
-			"title": "Put up a CryptoWall and Locky the Key – Stopping the Explosion of Ransomware"
+			"updated_at": "2018-03-15T12:18:00-06:00",
+			"title": "Put up a CryptoWall and Locky the Key - Stopping the Explosion of Ransomware"
 		},
 		{
 			"exploit": 0,
@@ -506,8 +506,8 @@
 			"demo": 0,
 			"entry_type": "Official",
 			"description": "What if an attacker could perform reconnaissance, social engineering, and exploitation without user input or credentials, using pages so seemingly benign that user awareness training failed? During the first part of this talk, we’ll discuss how to leverage the Browser Exploitation Framework (BeEF) to perform these client-side attacks, as well as how to evade defensive capabilities and avoid detection.\n\nOne of the challenges faced by defenders is mitigating these threats without making the browser unusable. Users constrained by security policies will inevitably find a way around those policies. An effective defender must work to reduce risk without affecting functionality, using the tools already at their disposal. This includes browser management through Group Policy, attack signatures in order to filter or drop traffic, and other compensating controls. During the second half of this talk, we will cover the three major browsers, while discussing which provides the most discrete levels of control and protection for the user.",
-			"updated_at": "2018-02-02T12:00:00-06:00",
-			"title": "Where’s the BeEF? Pwning with the Browser Exploitation Framework and Building Effective Defenses"
+			"updated_at": "2018-03-15T12:18:00-06:00",
+			"title": "Where's the BeEF? Pwning with the Browser Exploitation Framework and Building Effective Defenses"
 		},
 		{
 			"exploit": 0,
