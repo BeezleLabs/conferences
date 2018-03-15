@@ -1,5 +1,5 @@
 {
-	"update_date": "2018-03-15T11:01:00-06:00",
+	"update_date": "2018-03-15T11:44:00-06:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -698,7 +698,7 @@
 			"description": "Wireless technologies are considered an easy target for red teams and hackers.  Infrastructure design and management is slow to respond to the barrage of new attack methods and vulnerabilities within standardized wireless protocols.  Watch as Jordan and Kent explain how rethinking wireless infrastructure can immobilize attackers in their tracks, leaving them stranded in a wireless wasteland.\n\nThe duo discusses how typical wireless deployments don’t afford security despite providing the perception of a secure environment.  Blue-Teams will learn how attackers can be identified and how to make the attacks irrelevant by reconsidering the safety of encrypted WIFI to be the truly hostile and untrusted environment it is.",
 			"start_date": "2018-03-23T15:30:00-06:00",
 			"end_date": "2018-03-23T16:30:00-06:00",
-			"updated_at": "2018-03-15T11:01:00-06:00",
+			"updated_at": "2018-03-15T11:44:00-06:00",
 			"title": "Don't Suck at Wireless"
 		},
 	]
