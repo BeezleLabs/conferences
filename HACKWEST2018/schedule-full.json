@@ -1,5 +1,5 @@
 {
-        "update_date": "2018-03-17T16:18:00-06:00",
+        "update_date": "2018-03-17T16:23:00-06:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -598,8 +598,8 @@
 			"demo": 0,
 			"entry_type": "Workshop",
 			"description": "Coin challenges require a lot of thinking outside the box, and it can be hard to do it alone. Join us in working on last year's coin challenge. This will be an informal workshop, with the goal of broadening your thought process as you work through the challenges.",
-			"updated_at": "2018-03-13T14:00:00-06:00",
-			"title": "Hackwest Workshop - The Good, The Bad, The Crypto - Working through 
+			"updated_at": "2018-03-13T14:23:00-06:00",
+			"title": "Hackwest Workshop - The Good, The Bad, The Crypto - Working through Coin Challenges"
 		},
 		{
 			"exploit": 0,
