@@ -1,5 +1,5 @@
 {
-        "update_date": "2018-03-17T16:23:00-06:00",
+        "update_date": "2018-03-17T16:25:00-06:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -745,8 +745,8 @@
 			"location": "Workshop One",
 			"demo": 0,
 			"entry_type": "Workshop",
-			"description": "This workshop will demo free and open-source tools I’ve developed (http://flaws.cloud, CloudMapper, and CloudTracker) and discussion of other tools out there including Security Monkey, StreamAlert, and canarytokens."
-			"updated_at": "2018-03-17T16:09:00-06:00",
+			"description": "This workshop will demo free and open-source tools I’ve developed (http://flaws.cloud, CloudMapper, and CloudTracker) and discussion of other tools out there including Security Monkey, StreamAlert, and canarytokens.",
+			"updated_at": "2018-03-17T16:25:00-06:00",
 			"title": "Free AWS Security Tools Workshop"
 		},
 	]
