@@ -1,5 +1,5 @@
 {
-	"update_date": "2018-03-15T12:18:00-06:00",
+        "update_date": "2018-03-17T15:58:00-06:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -12,7 +12,7 @@
       			],
 			"tool": 0,
 			"id": "hw1801",
-			"start_date": "2018-03-021T08:30:00-06:00",
+			"start_date": "2018-03-21T08:30:00-06:00",
 			"includes": "",
 			"recommended": 0,
 			"link": "",
@@ -21,7 +21,7 @@
 			"entry_type": "Event",
 			"description": "HackWest Registration will be open",
 			"index": 1801,
-			"end_date": "2018-03-021T17:30:00-06:00",
+			"end_date": "2018-03-21T17:30:00-06:00",
 			"updated_at": "2018-02-02T12:00:00-06:00",
 			"title": "Registration"
 		},
@@ -36,7 +36,7 @@
       			],
 			"tool": 0,
 			"id": "hw1802",
-			"start_date": "2018-03-022T08:30:00-06:00",
+			"start_date": "2018-03-22T08:30:00-06:00",
 			"includes": "",
 			"recommended": 0,
 			"link": "",
@@ -45,7 +45,7 @@
 			"entry_type": "Event",
 			"description": "HackWest Registration will be open",
 			"index": 1802,
-			"end_date": "2018-03-022T17:30:00-06:00",
+			"end_date": "2018-03-22T17:30:00-06:00",
 			"updated_at": "2018-02-02T12:00:00-06:00",
 			"title": "Registration"
 		},
@@ -427,6 +427,30 @@
 			"entry_type": "Official",
 			"description": "Prepare for a journey through the tangle of HTTP Security Headers. What are they? Why should you use them? Who do they protect? How do they reduce risk? This talk will review both old and new security headers, their history, adoption rates, and show examples of good and bad implementations. It will also include demonstrations of common web attacks with and without the headers in place as long as _someone_ performs the blood sacrifice to appease the demo gods.",
 			"updated_at": "2018-02-02T12:00:00-06:00",
+			"title": "Security Headers and You"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      			"who" : [
+        			{
+          			"indexsp" : "1813",
+          			"who" : ""
+        			}
+      			],
+			"tool": 0,
+			"id": "hw1820",
+			"index": 1820,
+			"start_date": "2018-03-23T14:30:00-06:00",
+			"end_date": "2018-03-23T15:30:00-06:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Track One",
+			"demo": 1,
+			"entry_type": "Official",
+			"description": "Pass the Hash attacks is the most common attack methods used against Active Directory, yet the vast majority of organization do not audit password hashes. First we will define what is great password hash hygiene, demonstrate different methods to dump every password hash out of Active Directory, and demonstrate scripts to perform analysis to identify: weak hashing protocols, accounts with the same passwords, accounts with reversible encryptions, and default passwords.",
+			"updated_at": "2018-03-17T15:58:00-06:00",
 			"title": "Security Headers and You"
 		},
 		{
