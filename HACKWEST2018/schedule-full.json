@@ -1,5 +1,5 @@
 {
-        "update_date": "2018-03-17T16:00:00-06:00",
+        "update_date": "2018-03-17T16:09:00-06:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -599,7 +599,7 @@
 			"entry_type": "Workshop",
 			"description": "Coin challenges require a lot of thinking outside the box, and it can be hard to do it alone. Join us in working on last year's coin challenge. This will be an informal workshop, with the goal of broadening your thought process as you work through the challenges.",
 			"updated_at": "2018-03-13T14:00:00-06:00",
-			"title": "Hackwest Workshop - The Good, The Bad, The Crypto - Working through Coin Challenges"
+			"title": "Hackwest Workshop - The Good, The Bad, The Crypto - Working through 
 		},
 		{
 			"exploit": 0,
@@ -724,6 +724,30 @@
 			"end_date": "2018-03-23T16:30:00-06:00",
 			"updated_at": "2018-03-15T11:44:00-06:00",
 			"title": "Don't Suck at Wireless"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      			"who" : [
+        			{
+          			"indexsp" : "1827",
+          			"who" : ""
+        			}
+      			],
+			"tool": 0,
+			"id": "hw1830",
+			"index": 1830,
+			"start_date": "2018-03-22T14:00:00-06:00",
+			"end_date": "2018-03-22T15:00:00-06:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Workshop One",
+			"demo": 0,
+			"entry_type": "Workshop",
+			"description": "This workshop will demo free and open-source tools I’ve developed (http://flaws.cloud, CloudMapper, and CloudTracker) and discussion of other tools out there including Security Monkey, StreamAlert, and canarytokens."
+			"updated_at": "2018-03-17T16:09:00-06:00",
+			"title": "Free AWS Security Tools Workshop"
 		},
 	]
 }

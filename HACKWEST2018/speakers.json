@@ -215,7 +215,15 @@
 			"last_update": "2018-03-13T12:00:00-07:00",
 			"media": "",
 			"bio": "Eva Galperin is EFF's Director of Cybersecurity. Prior to 2007, when she came to work for EFF, Eva worked in security and IT in Silicon Valley and earned degrees in Political Science and International Relations from SFSU. Her work is primarily focused on providing privacy and security for vulnerable populations around the world. To that end, she has applied the combination of her political science and technical background to everything from organizing EFF's Tor Relay Challenge, to writing privacy and security training materials (including Surveillance Self Defense and the Digital First Aid Kit), and publishing research on malware in Syria,Vietnam, Kazakhstan. When she is not collecting new and exotic malware, she practices aerial circus arts and learning new languages."
+		},
+		{
+			"sptitle": "",
+			"who": "Scott Piper",
+			"indexsp": 1827,
+			"last_update": "2018-03-17T16:08:00-06:00",
+			"media": "@0xdabbad00",
+			"bio": "Scott Piper is an independent AWS security consultant."
 		}
 	],
-	"update_date": "2018-03-15T12:22:00-07:00"
+        "update_date": "2018-03-17T16:08:00-06:00"
 }
