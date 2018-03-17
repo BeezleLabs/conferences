@@ -1,5 +1,5 @@
 {
-        "update_date": "2018-03-17T15:58:00-06:00",
+        "update_date": "2018-03-17T16:00:00-06:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -450,8 +450,8 @@
 			"demo": 1,
 			"entry_type": "Official",
 			"description": "Pass the Hash attacks is the most common attack methods used against Active Directory, yet the vast majority of organization do not audit password hashes. First we will define what is great password hash hygiene, demonstrate different methods to dump every password hash out of Active Directory, and demonstrate scripts to perform analysis to identify: weak hashing protocols, accounts with the same passwords, accounts with reversible encryptions, and default passwords.",
-			"updated_at": "2018-03-17T15:58:00-06:00",
-			"title": "Security Headers and You"
+			"updated_at": "2018-03-17T16:00:00-06:00",
+			"title": "For Good and Evil: Password Hash Dumping In Active Directory"
 		},
 		{
 			"exploit": 0,
