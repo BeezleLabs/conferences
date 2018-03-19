@@ -1,19 +1,25 @@
 {
    "locations" : [
       {
-         "location" : "Grand Ballroom"
+         "location" : "Track 1 (Full Sail Live)"
       },
       {
-         "location" : "CTF"
+         "location" : "Track 2 (3B-307)"
       },
       {
-         "location" : "Chillout Room"
+         "location" : "Career Hall (3B-113)"
       },
       {
-         "location" : "Hardware Hacking Village"
+         "location" : "Lockpicking Village (3B-136)"
       },
       {
-         "location" : "Lockpicking Village"
+        "location" : "Vendor Hall"
+      },
+      {
+        "location" : "Hands On Hall"
+      },
+      {
+        "location" : "Capture the Flag"
       }
    ],
    "update_date" : "2018-02-23T10:00:00"

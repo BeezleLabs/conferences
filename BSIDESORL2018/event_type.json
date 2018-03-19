@@ -16,6 +16,9 @@
          "event_type" : "Village"
       },
       {
+         "event_type" : "Firetalks"
+      },
+      {
          "event_type" : "Event"
       }
    ],

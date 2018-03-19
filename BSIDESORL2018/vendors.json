@@ -1,14 +1,18 @@
 {
     "vendors": [
-        { "title": "Tinder", "description": "", "link": "https://www.tinder.com/", "partner": 0 },
-        { "title": "Supplyframe", "description": "", "link": "https://www.supplyframe.com/", "partner": 0 },
-        { "title": "Advanced System Group", "description": "", "link": "https://www.virtual.com/", "partner": 0 },
-        { "title": "Null Space Labs", "description": "", "link": "http://032.la/", "partner": 0 },
-        { "title": "Security Snobs", "description": "", "link": "https://www.securitysnobs.com/", "partner": 0 },
-        { "title": "Protiviti", "description": "", "link": "https://www.protiviti.com/", "partner": 0 },
-        { "title": "Adaptable Connectivity", "description": "", "link": "https://www.adaptconn.com/", "partner": 0 },
-        { "title": "Hacker Stickers", "description": "", "link": "https://www.hackerstickers.com/", "partner": 0 },
-        { "title": "Wall of Sheep", "description": "", "link": "https://wallofsheep.com/", "partner": 0 },
+        { "title": "Reliaquest", "description": "", "link": "https://www.reliaquest.com/", "partner": 0 },
+        { "title": "Florida Center for Cybersecurity", "description": "", "link": "http://thefc2.org/", "partner": 0 },
+        { "title": "SANS", "description": "", "link": "https://www.sans.org/", "partner": 0 },
+        { "title": "Black Hills Information Security", "description": "", "link": "https://www.blackhillsinfosec.com/", "partner": 0 },
+        { "title": "GuidePoint Security", "description": "", "link": "https://www.guidepointsecurity.com/", "partner": 0 },
+        { "title": "Fortress Information Security", "description": "", "link": "https://www.fortressinfosec.com/", "partner": 0 },
+        { "title": "iBoss", "description": "", "link": "https://www.iboss.com/", "partner": 0 },
+        { "title": "Security Matters", "description": "", "link": "https://www.secmatters.com/", "partner": 0 },
+        { "title": "CyberSecJobs.com", "description": "", "link": "https://cybersecjobs.com/", "partner": 0 },
+        { "title": "ISSA Central Florida", "description": "", "link": "http://centralflorida.issa.org/", "partner": 0 },
+        { "title": "Hak5", "description": "", "link": "https://www.hak5.org/", "partner": 0 },
+        { "title": "Sobe Research Group", "description": "", "link": "", "partner": 0 },
+        { "title": "secureset", "description": "", "link": "https://secureset.com/", "partner": 0 },
         { "title": "No Starch Press", "description": "", "link": "https://nostarch.com/", "partner": 0 }
     ]
 }
