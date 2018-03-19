@@ -1,5 +1,5 @@
 {
-        "update_date": "2018-03-19T12:26:00-06:00",
+        "update_date": "2018-03-19T12:31:00-06:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -769,7 +769,7 @@
 			"location": "Workshop Two",
 			"demo": 0,
 			"entry_type": "Workshop",
-			"description": ""This workshop will instruct attendees on how to carry out sophisticated wireless attacks against corporate infrastructure. Attendees will learn how to attack and gain access to WPA2-Enterprise networks, bypass network access controls, and perform replay attacks to gain administrative control over an Active Directory environment. External wireless adapters and preconfigured live USBs will be provided to all workshop attendees, and material learned in the lectures will be practiced within a realistic lab environment.\n\nAreas of focus include:\n\n- Wireless reconnaissance and target identification within a red team environment\n- Attacking and gaining entry to WPA2-EAP wireless networks\n- LLMNR/NBT-NS Poisoning\n- Firewall and NAC Evasion Using Indirect Wireless Pivots\n- MITM and SMB Relay Attacks\n- Downgrading modern SSL/TLS implementations using partial HSTS bypasses\n\nPREREQUISITES:\nDownload Virtual Lab and Course Guide before class\n\nhttps://drive.google.com/drive/folders/0BwFgM9oAhmd_c2JJaG1iUmhkZTg",
+			"description": "This workshop will instruct attendees on how to carry out sophisticated wireless attacks against corporate infrastructure. Attendees will learn how to attack and gain access to WPA2-Enterprise networks, bypass network access controls, and perform replay attacks to gain administrative control over an Active Directory environment. External wireless adapters and preconfigured live USBs will be provided to all workshop attendees, and material learned in the lectures will be practiced within a realistic lab environment.\n\nAreas of focus include:\n\n- Wireless reconnaissance and target identification within a red team environment\n- Attacking and gaining entry to WPA2-EAP wireless networks\n- LLMNR/NBT-NS Poisoning\n- Firewall and NAC Evasion Using Indirect Wireless Pivots\n- MITM and SMB Relay Attacks\n- Downgrading modern SSL/TLS implementations using partial HSTS bypasses\n\nPREREQUISITES:\nDownload Virtual Lab and Course Guide before class\n\nhttps://drive.google.com/drive/folders/0BwFgM9oAhmd_c2JJaG1iUmhkZTg",
 			"updated_at": "2018-03-19T12:17:00-06:00",
 			"title": "Advanced Wireless Attacks Against Enterprise Networks - Workshop"
 		},
@@ -786,6 +786,7 @@
 			"id": "hw1832",
 			"index": 1832,
 			"start_date": "2018-03-23T09:30:00-06:00",
+			"end_date": "2018-03-23T16:30:00-06:00",
 			"includes": "",
 			"recommended": 0,
 			"link": "",
@@ -793,8 +794,7 @@
 			"demo": 0,
 			"entry_type": "Event",
 			"description": "A lightning talk is a very short presentation lasting only a few minutes. We will open up the conference for lightning talks and people within the community are encouraged to present topics of their choosing which fit within the scope of our code of conduct. Sign up below.\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSdF8Scr0YVPp1I3YbQvPX78rD5UItqLPzEFyccJ9jAlO7LkFw/viewform",
-			"end_date": "2018-03-21T16:30:00-06:00",
-			"updated_at": "2018-03-19T12:24:00-06:00",
+			"updated_at": "2018-03-19T12:31:00-06:00",
 			"title": "HackWest Lightning Talks"
 		},
 	]
