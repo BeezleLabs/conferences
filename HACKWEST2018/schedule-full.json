@@ -1,5 +1,5 @@
 {
-        "update_date": "2018-03-19T12:31:00-06:00",
+        "update_date": "2018-03-19T13:31:00-06:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -796,6 +796,30 @@
 			"description": "A lightning talk is a very short presentation lasting only a few minutes. We will open up the conference for lightning talks and people within the community are encouraged to present topics of their choosing which fit within the scope of our code of conduct. Sign up below.\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSdF8Scr0YVPp1I3YbQvPX78rD5UItqLPzEFyccJ9jAlO7LkFw/viewform",
 			"updated_at": "2018-03-19T12:31:00-06:00",
 			"title": "HackWest Lightning Talks"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      			"who" : [
+        			{
+          			"indexsp" : "1828",
+          			"who" : ""
+        			}
+      			],
+			"tool": 0,
+			"id": "hw1833",
+			"index": 1833,
+			"start_date": "2018-03-23T10:30:00-06:00",
+			"end_date": "2018-03-23T11:30:00-06:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Track Two",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "This presentation will cover the proper use and implementation of a security framework in an enterprise setting. We will discuss how to begin the process of implementing a framework, and where to focus to gain the greatest levels of success.",
+			"updated_at": "2018-03-19T13:31:00-06:00",
+			"title": "Security Frameworks, Who Knew?"
 		},
 	]
 }
