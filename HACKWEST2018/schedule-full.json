@@ -1,5 +1,5 @@
 {
-        "update_date": "2018-03-19T19:50:00-06:00",
+        "update_date": "2018-03-19T19:56:00-06:00",
 	"schedule": [
 		{
 			"exploit": 0,
@@ -855,8 +855,8 @@
         			}
       			],
 			"tool": 0,
-			"id": "hw1834",
-			"index": 1834,
+			"id": "hw1835",
+			"index": 1835,
 			"start_date": "2018-03-22T13:00:00-06:00",
 			"end_date": "2018-03-22T15:00:00-06:00",
 			"includes": "",
@@ -866,7 +866,7 @@
 			"demo": 0,
 			"entry_type": "Event",
 			"description": "Join us for Snowfensive’s first Open-Source Intelligence (OSINT) Capture The Flag (CTF) challenge. Come with just a laptop that can get on the internet. This is your chance to prove your skills! There will be two unique games, and each game will be about two hours long. Each game will include multiple timed rounds. Its up to you and your team to get a flag before anyone else can. Once its been found, no one else can get it. There will be multiple flags in each round, which will be assigned different point values based off difficulty. All rounds will be timed and as soon as the round ends, a new one will start with new flags. We recommend team sizes of no more than two people (as we only have four prizes for the first-place winners (two prizes for each team)). However, you can have more team members.",
-			"updated_at": "2018-03-19T19:53:00-06:00",
+			"updated_at": "2018-03-19T19:56:00-06:00",
 			"title": "SNOWFENSIVE OSINT CTF"
 		},
 	]
