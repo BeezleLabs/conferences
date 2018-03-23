@@ -66,9 +66,9 @@
 		},
 		{
 			"sptitle": "",
-			"who": "Waylon Granger",
+			"who": "Waylon Grange",
 			"indexsp": 1808,
-			"last_update": "2018-02-02T12:00:00-07:00",
+			"last_update": "2018-03-23T09:59:00-06:00",
 			"media": "@professor__plum",
 			"bio": "Waylon Grange is an experienced reverse engineer, developer, and digital forensics examiner. He holds a graduate degree in Information Security from Johns Hopkins University and has worked numerous computer incident investigations spanning the globe. He currently works as a Senior Threat Researcher for Symantec and previously worked for the Department of Defense performing vulnerability research, software development, and Computer Network Operations."
 		},
@@ -233,5 +233,5 @@
 			"bio": ""
 		}
 	],
-        "update_date": "2018-03-19T13:28:00-06:00"
+        "update_date": "2018-03-23T09:59:00-06:00"
 }
