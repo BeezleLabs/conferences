@@ -1,0 +1,710 @@
+{
+	"update_date": "2018-02-02T10:59:00-07:00",
+	"schedule": [
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+      			"who" : [
+        			{
+          			"indexsp" : "0",
+          			"who" : ""
+        			}
+      			],
+			"tool": 0,
+			"id": "bsorl1700",
+			"start_date": "2018-04-07T08:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Track 1 (Full Sail Live)",
+			"demo": 0,
+			"entry_type": "Event",
+			"description": "Registration opens",
+			"index": 1700,
+			"end_date": "2018-04-07T09:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Registration"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1701",
+			"start_date": "2018-04-07T09:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Track 1 (Full Sail Live)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "Opening Cermonies",
+			"index": 1701,
+			"end_date": "2018-04-07T09:30:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Opening Cermonies"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "1800",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1702",
+			"start_date": "2018-04-07T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/speakers/keynote-avani-desai",
+			"location": "Track 1 (Full Sail Live)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "Obsolescence to Relevance – A World When Technology Outpaces Humans",
+			"index": 1702,
+			"end_date": "2018-04-07T10:30:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Opening Keynote - Avani Desai"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1703",
+			"start_date": "2018-04-07T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Career Hall (3B-113)",
+			"demo": 0,
+			"entry_type": "Event",
+			"description": "",
+			"index": 1703,
+			"end_date": "2018-04-07T10:30:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Career Hall - Resume Review"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1704",
+			"start_date": "2018-04-07T09:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Lockpicking Village (3B-136)",
+			"demo": 0,
+			"entry_type": "Village",
+			"description": "The Orlando Chapter of The Open Organization Of Lockpickers (TOOOL) will host a Lock Picking Village (LPV) at BSides Orlando.\n\nLearn how locks work, common tools used for opening locks, locksport, lockpicking,  ask questions about locks, safes,  physical security, and MORE!\n\nWe will have locksport challenges including a challenge box with a gift card locked inside.\n\nLearn more at https://toool.us/",
+			"index": 1704,
+			"end_date": "2018-04-07T17:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Career Hall - Resume Review"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "1801",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1705",
+			"start_date": "2018-04-07T10:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/speakers/kevin-cody",
+			"location": "Track 1 (Full Sail Live)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "Have you looked at HTTP headers lately? Not only are they unwieldy, but what do half of them mean? Furthermore, browsers are protecting us from more-and-more attacks, but what are all of these acronyms? SOP, CSP, XSS, HSTS, HPKP, CAA… at the end of the day, we just want useable AND secure applications. This talk will break down exactly what all of these acronyms and browser-enforced security policies mean. Attendees will learn implementation and long-term strategies in effort to increase security posture without potentially sinkholing your user’s traffic. Whether you’re a first time developer, multi-linguist application guru, or simply an app user who wants to know what all of this security fuss is about – this session will appeal to the entire security conscious gamut.",
+			"index": 1705,
+			"end_date": "2018-04-07T11:30:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Enhancing Application Security: Understanding and Utilizing Browser Security Features"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "1802",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1706",
+			"start_date": "2018-04-07T10:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/speakers/thomas-richards",
+			"location": "Track 2 (3B-307)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "As any security program matures, it will use tools and techniques to automate processes to improve the security posture of the organization. This includes asset management and discovery, patch management, deploying software, and vulnerability discovery. However, if the these tools are improperly configured, they can lead to a total compromise of your network by an attacker. In this talk we will go over a few case studies of abusing these tools while on penetration tests as well as remediation methods to prevent these attacks from occurring.",
+			"index": 1706,
+			"end_date": "2018-04-07T11:30:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Security Tool Misconfiguration and Abuse"
+		}
+		,
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1707",
+			"start_date": "2018-04-07T10:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Career Hall (3B-113)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "",
+			"index": 1707,
+			"end_date": "2018-04-07T11:30:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Panel: Career Search: Are you pwning or being pwned?"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1708",
+			"start_date": "2018-04-07T11:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Track 1 (Full Sail Live)",
+			"demo": 0,
+			"entry_type": "Event",
+			"description": "",
+			"index": 1708,
+			"end_date": "2018-04-07T12:30:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Lunch"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1709",
+			"start_date": "2018-04-07T11:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Track 2 (3B-307)",
+			"demo": 0,
+			"entry_type": "Firetalks",
+			"description": "Open stage, 10 minute slots",
+			"index": 1709,
+			"end_date": "2018-04-07T12:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Firetalks"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1710",
+			"start_date": "2018-04-07T11:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Career Hall (3B-113)",
+			"demo": 0,
+			"entry_type": "Event",
+			"description": "",
+			"index": 1710,
+			"end_date": "2018-04-07T12:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Resume Review"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1711",
+			"start_date": "2018-04-07T12:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Lockpicking Village (3B-136)",
+			"demo": 0,
+			"entry_type": "Village",
+			"description": "",
+			"index": 1711,
+			"end_date": "2018-04-07T13:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Lockpicking 101 Demo"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "1803",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1712",
+			"start_date": "2018-04-07T13:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/speakers/bryan-smith",
+			"location": "Track 1 (Full Sail Live)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "",
+			"index": 1712,
+			"end_date": "2018-04-07T14:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Dear Blue Team: Forensic Advice for Security Engineers, System Admins, and more!"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "1804",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1713",
+			"start_date": "2018-04-07T13:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/speakers/fraq",
+			"location": "Track 2 (3B-307)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "As society becomes ever more dependent on increasingly complex systems, skilled technical minds with the ability to creatively discover and exploit flaws in these systems will become ever more valuable. This talk reinforces the hacker ethos and how we will evolve to live and work in a world where we are no longer the outcasts we once were. We are not entering the twilight of the hacker ethos. Instead, we are entering our golden age.",
+			"index": 1713,
+			"end_date": "2018-04-07T14:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "We Need Hackers Now More Than Ever"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1714",
+			"start_date": "2018-04-07T13:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Career Hall (3B-113)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "",
+			"index": 1714,
+			"end_date": "2018-04-07T14:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Preventable Fatalities of Multimedia Presentations"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "1805",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1715",
+			"start_date": "2018-04-07T14:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/speakers/chad-seaman",
+			"location": "Track 1 (Full Sail Live)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "In 2017 Akamai was hit with a series of prolonged targeted layer 7 DDoS attacks against major hospitality e-commerce companies. From attack traffic to disassembled malware, we’ll cover how a DDoS attack lead to the discovery of an Android powered DDoS botnet.",
+			"index": 1715,
+			"end_date": "2018-04-07T15:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "WireX - Why Shady Apps Lead to Hot Pockets"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "1806",
+								"who" : ""
+							},
+							{
+								"indexsp" : "1807",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1716",
+			"start_date": "2018-04-07T14:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/speakers/david-switzer-jonathan-echavarria",
+			"location": "Track 2 (3B-307)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "Home automation and IoT is all the rage, but once you have your thermostat automated, what is next? How can you leverage your automated home for active defense and gain some situational awareness, both inside and out? Much research has been done on the security of IoT devices, and this talk looks into how to use IoT (and possibly their insecurities) for your home security, while keeping costs down.",
+			"index": 1716,
+			"end_date": "2018-04-07T14:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "The Trap House: Making Your House as Paranoid as You Are"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1717",
+			"start_date": "2018-04-07T14:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Career Hall (3B-113)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "",
+			"index": 1717,
+			"end_date": "2018-04-07T15:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "You Can Capture the Flag, but Can You Code the Right Resume for Your Next Job?"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1718",
+			"start_date": "2018-04-07T14:30:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Lockpicking Village (3B-136)",
+			"demo": 0,
+			"entry_type": "Village",
+			"description": "",
+			"index": 1718,
+			"end_date": "2018-04-07T15:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Lockpicking 101 Demo"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "1808",
+								"who" : ""
+							},
+							{
+								"indexsp" : "1809",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1719",
+			"start_date": "2018-04-07T15:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/speakers/beau-bullock-mike-felch",
+			"location": "Track 1 (Full Sail Live)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "As more corporations adopt Google for providing cloud services they are also inheriting the security risks associated with centralized computing, email and data storage outside the perimeter. In order for pentesters and red teamers to remain effective in analyzing security risks, they must adapt techniques in a way that brings value to the customer.\n\nIn this presentation we will begin by demonstrating adaptive techniques to crack the perimeter of Google Suite customers. Next, we will show how evasion can be accomplished by hiding in plain-sight due to failures in incident response plans. Finally, we will also show how a simple compromise could mean collateral damage for customers who are not carefully monitoring these cloud environments.",
+			"index": 1719,
+			"end_date": "2018-04-07T16:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "OK Google, How do I Red Team GSuite?"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "1803",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1720",
+			"start_date": "2018-04-07T15:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/speakers/bryan-smith",
+			"location": "Track 2 (3B-307)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "IOT has many connectivity options and systems based on Low Power\nNetworks(LPN's) such as Lorawan are showing a great deal of promise.\nThe Things Networks(TTN) is a community initiated Lorawan, Low Power Wide Area Network(LPWAN). It’s collaboratively built by scores of passionate people, Open Source Software and Open Governance. The network even has a manifesto and fair access policy that governs it’s use and promotes band management.\n\nIn the session we’ll discuss:\nThe technology behind Lorawan, The Things Network and other similar networks.\nTTN’s impact on public and private LPWANs.\nSecurity implications of community initiated LPWANs.\nThe initiators and communities that install and build Lorawan gateways.\nLastly we’ll discuss the impact of the deployments in real world use cases.\n\nThere will also be a live demo of a Lorawan gateway and node in action on several public networks including The Things Network as well as others.",
+			"index": 1720,
+			"end_date": "2018-04-07T16:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "The Things Network: IoT for Fun and Profit"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1721",
+			"start_date": "2018-04-07T15:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Career Hall (3B-113)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "",
+			"index": 1721,
+			"end_date": "2018-04-07T17:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Resume Review"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "1810",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1722",
+			"start_date": "2018-04-07T16:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/speakers/keynote-jon-haas",
+			"location": "Track 1 (Full Sail Live)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "",
+			"index": 1722,
+			"end_date": "2018-04-07T17:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Closing Keynote - What I Didn't Learn in School"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1723",
+			"start_date": "2018-04-07T17:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "",
+			"location": "Track 1 (Full Sail Live)",
+			"demo": 0,
+			"entry_type": "Official",
+			"description": "",
+			"index": 1723,
+			"end_date": "2018-04-07T17:30:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Closing Ceremonies"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "1812",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1724",
+			"start_date": "2018-04-07T09:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/ics-packet-analysis-workshop",
+			"location": "Hands On Hall",
+			"demo": 0,
+			"entry_type": "Workshop",
+			"description": "The course has two sections.  The first section explains control system functions to IT/IS people.  This includes PLC design and operation and why things are they way they are today in ICS network environments.  It also includes basic information on how to identify ABB, Honeywell, Emerson, Telvent, Siemens, Rockwell and BACNet network connections.  It also explains in great detail, the Modbus and DNP3 protocols and how to manually decode them.  The second section has three labs which take the student through decoding the Modbus protocol, detailed Wireshark analysis techniques and then running an automated NSM tool.\n\nSee link for more details.",
+			"index": 1724,
+			"end_date": "2018-04-07T17:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "ICS Packet Analysis Workshop"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "1811",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1725",
+			"start_date": "2018-04-07T09:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/ctf-101",
+			"location": "Hands On Hall",
+			"demo": 0,
+			"entry_type": "Workshop",
+			"description": "Ever wanted to play in a Capture the Flag competition but didn’t know where to start? This workshop is for you! We’ll cover basic challenges in various areas like binary reversing and exploitation, web, and forensics.\n\nSee link for more details.",
+			"index": 1725,
+			"end_date": "2018-04-07T17:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "CTF 101"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1726",
+			"start_date": "2018-04-07T09:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/sunshine-ctf",
+			"location": "Capture the Flag",
+			"demo": 0,
+			"entry_type": "Contest",
+			"description": "The team from Hack@UCF will return to BSides Orlando to host SunshineCTF. Attempt exciting challenges created by members of competitive CTF teams that have won on the National and International level.\n\nThe CTF will be held at BSides Orlando and at https://ctftime.org/ \n]nThe winning team at BSides Orlando will be presented with a trophy at closing ceremonies.\n\nUnfamiliar with CTFs? Want to learn how they work and how to compete?  Check out the CTF 101 workshop at BSides Orlando.",
+			"index": 1726,
+			"end_date": "2018-04-07T17:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Sunshine CTF"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1727",
+			"start_date": "2018-04-07T09:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/hands-on-hall",
+			"location": "Hands On Hall",
+			"demo": 0,
+			"entry_type": "Training",
+			"description": "For the first time BSides Orlando will run a Hands On Hall sponsored by Black Hills Information Security. This will include live demos where attendees have the opportunity to “get their hands dirty” with short labs.\n\nBlack Hills Information Security is excited to bring some of the popular Wild West Hacking labs to BSides Orlando 2018. What? You haven’t heard about the WWHF labs? Well then are you in for a treat! The labs are totally hands on, with detailed instructions and a BHIS researcher to help if you get stuck . You will have the opportunity to do the following:\n\nInteract with a Jatagulator to perform reconnaissance on a device or communicate with their embedded chips.\nUse a Bus Pirate to dump the firmware and obtain gold from a wireless router chip.\nPlay with Software Defined Radio (SDR) and perform replay attacks against common technologies.\n\nIf you have not heard of the words: Jatagulator, Bus Pirate or SDR then you must join BHIS in their playground. Hope to see you there!\n\nLearn more about Black Hills Information Security here: https://www.blackhillsinfosec.com/\n\nCheck out Wild West Hackin’ Fest: https://www.wildwesthackinfest.com/",
+			"index": 1727,
+			"end_date": "2018-04-07T17:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Hands On Hall"
+		},
+		{
+			"exploit": 0,
+			"dctv_channel": 0,
+						"who" : [
+							{
+								"indexsp" : "0",
+								"who" : ""
+							}
+						],
+			"tool": 0,
+			"id": "bsorl1728",
+			"start_date": "2018-04-07T09:00:00-05:00",
+			"includes": "",
+			"recommended": 0,
+			"link": "https://bsidesorlando.org/2018/silent-auction",
+			"location": "Track 1 (Full Sail Live)",
+			"demo": 0,
+			"entry_type": "Event",
+			"description": "BSides Orlando will have a silent auction with great items up for bid. There’s something for all from pros to the curious and everyone in between.\n\nSilent auction sales will go toward future BSides events.\n\nCash or Credit Card Accepted.",
+			"index": 1728,
+			"end_date": "2018-04-07T17:00:00-05:00",
+			"updated_at": "2018-02-02T12:00:00-05:00",
+			"title": "Silent Auction"
+		}
+	]
+}
