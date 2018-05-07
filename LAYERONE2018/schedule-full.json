@@ -372,7 +372,7 @@
       ],
       "tool": 0,
       "id": "layer16",
-      "start_date": "2018-05-26T17:00:00-07:00",
+      "start_date": "2018-05-26T18:00:00-07:00",
       "includes": "",
       "recommended": 0,
       "link": "https://www.layerone.org/events/ham-testing/",
@@ -381,7 +381,7 @@
       "entry_type": "Event",
       "description": "",
       "index": 1016,
-      "end_date": "2018-05-26T18:00:00-07:00",
+      "end_date": "2018-05-26T19:00:00-07:00",
       "updated_at": "2018-05-07T12:00:00-05:00",
       "title": "HAM Testing"
     },
