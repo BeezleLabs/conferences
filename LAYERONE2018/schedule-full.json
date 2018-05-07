@@ -916,6 +916,54 @@
       "end_date": "2018-05-27T18:00:00-07:00",
       "updated_at": "2018-05-07T12:00:00-05:00",
       "title": "Hardware Hacking Village"
+    },
+    {
+      "exploit": 0,
+      "dctv_channel": 0,
+      "who": [
+        {
+          "indexsp": "0",
+          "who": ""
+        }
+      ],
+      "tool": 0,
+      "id": "layer38",
+      "start_date": "2018-05-26T10:00:00-07:00",
+      "includes": "",
+      "recommended": 0,
+      "link": "https://www.layerone.org/events/lockpicking-village/",
+      "location": "Lockpicking Village",
+      "demo": 0,
+      "entry_type": "Village",
+      "description": "",
+      "index": 1038,
+      "end_date": "2018-05-26T18:00:00-07:00",
+      "updated_at": "2018-05-07T12:00:00-05:00",
+      "title": "Lockpicking Village"
+    },
+    {
+      "exploit": 0,
+      "dctv_channel": 0,
+      "who": [
+        {
+          "indexsp": "0",
+          "who": ""
+        }
+      ],
+      "tool": 0,
+      "id": "layer39",
+      "start_date": "2018-05-27T10:00:00-07:00",
+      "includes": "",
+      "recommended": 0,
+      "link": "https://www.layerone.org/events/lockpicking-village/",
+      "location": "Lockpicking Village",
+      "demo": 0,
+      "entry_type": "Village",
+      "description": "",
+      "index": 1039,
+      "end_date": "2018-05-27T18:00:00-07:00",
+      "updated_at": "2018-05-07T12:00:00-05:00",
+      "title": "Lockpicking Village"
     }
   ]
 }
