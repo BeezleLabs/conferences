@@ -13,8 +13,11 @@
          "location" : "Hardware Hacking Village"
       },
       {
+         "location" : "IoT Village"
+      },
+      {
          "location" : "Lockpicking Village"
       }
    ],
-   "update_date" : "2018-02-23T10:00:00"
+   "update_date" : "2018-05-07T10:00:00"
 }
