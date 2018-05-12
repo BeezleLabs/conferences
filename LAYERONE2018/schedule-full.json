@@ -11,7 +11,7 @@
         }
       ],
       "tool": 0,
-      "id": "layer01",
+      "id": "layer1801",
       "start_date": "2018-05-26T09:00:00-07:00",
       "includes": "",
       "recommended": 0,
@@ -20,7 +20,7 @@
       "demo": 0,
       "entry_type": "Event",
       "description": "Registration opens & Continental breakfast!",
-      "index": 1001,
+      "index": 1801,
       "end_date": "2018-05-26T09:45:00-07:00",
       "updated_at": "2018-05-07T12:00:00-05:00",
       "title": "Registration"
