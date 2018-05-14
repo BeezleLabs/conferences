@@ -1,7 +1,7 @@
 {
    "locations" : [
       {
-         "location" : "Grand Ballroom"
+         "location" : "International Ballroom"
       },
       {
          "location" : "CTF"
@@ -17,7 +17,10 @@
       },
       {
          "location" : "Lockpicking Village"
+      },
+      {
+         "location" : "Registration & Vendor Area"
       }
    ],
-   "update_date" : "2018-05-07T10:00:00"
+   "update_date" : "2018-05-14T10:00:00"
 }
