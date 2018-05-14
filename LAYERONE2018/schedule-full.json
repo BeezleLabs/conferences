@@ -1,5 +1,5 @@
 {
-  "update_date": "2018-05-14T13:30:00-05:00",
+  "update_date": "2018-05-14T13:33:00-05:00",
   "schedule": [
     {
       "exploit": 0,
@@ -16,7 +16,7 @@
       "includes": "",
       "recommended": 0,
       "link": "",
-      "location": "Registration",
+      "location": "Registration & Vendor Area",
       "demo": 0,
       "entry_type": "Event",
       "description": "Registration opens & Continental breakfast!",
@@ -40,7 +40,7 @@
       "includes": "",
       "recommended": 0,
       "link": "",
-      "location": "",
+      "location": "International Ballroom",
       "demo": 0,
       "entry_type": "Event",
       "description": "Opening remarks",
