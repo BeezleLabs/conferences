@@ -1,5 +1,5 @@
 {
-  "update_date": "2018-05-14T13:33:00-05:00",
+  "update_date": "2018-05-14T02:18:00-05:00",
   "schedule": [
     {
       "exploit": 0,
@@ -707,7 +707,7 @@
       "who": [
         {
           "indexsp": "13",
-          "who": "Aatif Khan"
+          "who": "Mark Liphardt"
         }
       ],
       "tool": 0,
@@ -719,11 +719,11 @@
       "location": "International Ballroom",
       "demo": 0,
       "entry_type": "Official",
-      "description": "This talk will cover security issues of civil drones, laws in US for flying private drones and live/video demonstration of hacking popular drones.",
+      "description": "Today many people are concerned with personal privacy issues. However, despite what people say, we often act in many ways which may seem to contradict that desire. This talk will explore some common misconceptions about privacy and contrast behaviors that suggest that either we don’t really know or we don’t actually care about protecting our privacy in real life. We will explore some of the challenges related to achieving and maintaining various degrees of personal privacy in the modern world. We will examine technical issues, as well as, some of the laws and pending legislation impacting it and compare what is happening in the US verses other countries to learn which are doing a better or worse job at protecting their citizen’s personal information. Finally, we will identify current trends and activities that may help or hinder our rights in the near future. We will attempt to discover what is really needed to make our dreams of individual privacy protection come true.",
       "index": 1029,
       "end_date": "2018-05-27T17:00:00-07:00",
-      "updated_at": "2018-05-14T12:00:00-05:00",
-      "title": "Aatif Khan – Hacking the Drone"
+      "updated_at": "2018-05-17T02:18:00-05:00",
+      "title": "Mark Liphardt – Does Privacy Matter Anymore? Exploring Perception vs. Reality"
     },
     {
       "exploit": 0,
