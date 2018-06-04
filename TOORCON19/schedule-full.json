@@ -22,7 +22,7 @@
       "entry_type" : "Conference",
       "description" : "",
       "index" : "1",
-      "end_date" : "2017-09-02T010:50:00-07:00",
+      "end_date" : "2017-09-02T10:50:00-07:00",
       "updated_at" : "2017-08-24T22:08:28-07:00",
       "title" : "Keynote: From Hacker to Home"
     }
@@ -52,7 +52,7 @@
       "entry_type" : "Conference",
       "description" : "",
       "index" : "2",
-      "end_date" : "2017-09-02T011:50:00-07:00",
+      "end_date" : "2017-09-02T11:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
       "title" : "FaceDancer 2.0 - next generation USB hacking"
     }
@@ -992,7 +992,7 @@
       "entry_type" : "Workshops",
       "description" : "The two day Software Defined Radio (SDR) workshop at ToorCon is an introduction to digital signal processing, software radio, and the powerful tools that enable the growing array of SDR projects within the hacker community. This course takes a unique \"software radio for hackers\" approach, building on the participants’ knowledge of computer programming and introducing them to the forefront of digital radio technology. Participants will learn how to transmit, receive, and analyze radio signals and will be prepared to use this knowledge in the research of wireless communication security.",
       "index" : "33",
-      "end_date" : "2017-08-303T16:50:00-07:00",
+      "end_date" : "2017-08-30T16:50:00-07:00",
       "updated_at" : "2017-09-01T13:22:16-07:00",
       "title" : "Software Defined Radio Workshop - Day 1 of 2"
     },
