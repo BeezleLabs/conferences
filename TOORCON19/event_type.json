@@ -1,28 +1,35 @@
 {
    "event_types" : [
       {
-         "event_type" : "Workshops"
+         "event_type" : "Workshops",
+         "colour": "#0277BD"
       },
       {
-         "event_type" : "Seminars"
+         "event_type" : "Seminars",
+         "colour": "#1565C0"
       },
       {
-         "event_type" : "Conference"
+         "event_type" : "Conference",
+         "colour": "#ff6e40"
       },
       {
-         "event_type" : "Contests"
+         "event_type" : "Contests",
+         "colour": "#fa36e7"
       }
       ,
       {
-         "event_type" : "Parties"
+         "event_type" : "Parties",
+         "colour": "#6A1B9A"
       }
       ,
       {
-         "event_type" : "Events"
+         "event_type" : "Events",
+         "colour": "#282727"
       }
       ,
       {
-         "event_type" : "Break"
+         "event_type" : "Break",
+         "colour": "#283593"
       }
    ],
    "update_date" : "2017-08-24T22:08:28-07:00"

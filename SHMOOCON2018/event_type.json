@@ -1,31 +1,40 @@
 {
    "event_types" : [
       {
-         "event_type" : "Contest"
+         "event_type" : "Contest",
+         "colour": "#1565C0"
       },
       {
-         "event_type" : "Event"
+         "event_type" : "Event",
+         "colour": "#6A1B9A"
       },
       {
-         "event_type" : "Official"
+         "event_type" : "Official",
+         "colour": "#c77228"
       },
       {
-         "event_type" : "Party"
+         "event_type" : "Party",
+         "colour": "#0277BD"
       },
       {
-         "event_type" : "Lab"
+         "event_type" : "Lab",
+         "colour": "#283593"
       },
       {
-         "event_type" : "Breaks"
+         "event_type" : "Breaks",
+         "colour": "#AD1457"
       },
       {
-         "event_type" : "Firetalk"
+         "event_type" : "Firetalk",
+         "colour": "#fa36e7"
       },
       {
-         "event_type" : "Un-Official"
+         "event_type" : "Un-Official",
+         "colour": "#6A1B9A"
       },
       {
-         "event_type" : "Village"
+         "event_type" : "Village",
+         "colour": "#4527A0"
       }
    ],
    "update_date" : "2018-01-12T10:00:00"

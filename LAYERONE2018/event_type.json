@@ -1,23 +1,61 @@
 {
-   "event_types" : [
+   "event_types": [
       {
-         "event_type" : "Contest"
+         "event_type": "Book-Signing",
+         "colour": "#fa36e7"
       },
       {
-         "event_type" : "Training"
+         "event_type": "Contest",
+         "colour": "#1565C0"
       },
       {
-         "event_type" : "Official"
+         "event_type": "DCTV",
+         "colour": "#fa36e7"
       },
       {
-         "event_type" : "Workshop"
+         "event_type": "DemoLabs",
+         "colour": "#fa36e7"
       },
       {
-         "event_type" : "Village"
+         "event_type": "Event",
+         "colour": "#6A1B9A"
       },
       {
-         "event_type" : "Event"
+         "event_type": "Joke",
+         "colour": "#fa36e7"
+      },
+      {
+         "event_type": "Kids",
+         "colour": "#283593"
+      },
+      {
+         "event_type": "Messages",
+         "colour": "#fa36e7"
+      },
+      {
+         "event_type": "Official",
+         "colour": "#c77228"
+      },
+      {
+         "event_type": "Party",
+         "colour": "#0277BD"
+      },
+      {
+         "event_type": "Skytalks",
+         "colour": "#AD1457"
+      },
+      {
+         "event_type": "Stupid",
+         "colour": "#fa36e7"
+      },
+      {
+         "event_type": "Un-Official",
+         "colour": "#fa36e7"
+      },
+      {
+         "event_type": "Village",
+         "colour": "#4527A0"
       }
    ],
-   "update_date" : "2018-05-14T10:00:00"
+   "update_date": "2017-07-27T10:00:00-7:00"
 }
