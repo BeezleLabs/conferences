@@ -1,0 +1,16 @@
+{  
+   "faqs":[  
+      {  
+         "question":"When and where is LayerOne?",
+         "answer":"LayerOne 2018 will be held at the Pasadena Hilton in Pasadena, CA on May 25-27, 2018. If you're not attending a training, the effective conference dates are May 26-27, 2018. For those of you flying in, the closest airport is the Hollywood/Burbank (Bob Hope) International Airport (BUR)."
+      },
+      {  
+         "question":"How much is admission?",
+         "answer":"$120"
+      },
+      {  
+         "question":"Where can I get more information?",
+         "answer":"https://layerone.org"
+      }
+   ]
+}

@@ -1,0 +1,16 @@
+{  
+   "faqs":[  
+      {  
+         "question":"When and where is HackWest?",
+         "answer":"Salt Lake City Utah, at the Salt Palace Convention Center. March 21-23, 2018."
+      },
+      {  
+         "question":"How much is admission?",
+         "answer":"$100"
+      },
+      {  
+         "question":"Where can I get more information?",
+         "answer":"https://hackwest.org"
+      }
+   ]
+}
