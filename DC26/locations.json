@@ -1,0 +1,35 @@
+{
+  "locations": [
+    {
+      "id": 26001,
+      "conference": "DC26",
+      "location": "Track 2",
+      "updated_at": "2018-06-30T18:57+0000"
+    },
+    {
+      "id": 26002,
+      "conference": "DC26",
+      "location": "101 Track, Flamingo",
+      "updated_at": "2018-06-30T18:57+0000"
+    },
+    {
+      "id": 26003,
+      "conference": "DC26",
+      "location": "Track 1",
+      "updated_at": "2018-06-30T18:57+0000"
+    },
+    {
+      "id": 26004,
+      "conference": "DC26",
+      "location": "Track 3",
+      "updated_at": "2018-06-30T18:57+0000"
+    },
+    {
+      "id": 26005,
+      "conference": "DC26",
+      "location": "Location:TBA",
+      "updated_at": "2018-06-30T18:57+0000"
+    }
+  ],
+  "update_date": "2018-06-30T18:57+0000"
+}

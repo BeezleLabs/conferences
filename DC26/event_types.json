@@ -1,0 +1,19 @@
+{
+  "event_types": [
+    {
+      "id": 1,
+      "conference": "DC26",
+      "event_type": "Official",
+      "color": "#c77228",
+      "updated_at": "2018-06-30T19:25+0000"
+    },
+    {
+      "id": 3,
+      "conference": "DC26",
+      "event_type": "Workshop",
+      "color": "#AD1457",
+      "updated_at": "2018-06-30T19:26+0000"
+    }
+  ],
+  "update_date": "2018-06-30T19:26+0000"
+}
