@@ -3,11 +3,11 @@
   "conferences": [
     {
       "speakers": {
-        "updated_at": "2018-06-30T18:57+0000",
+        "updated_at": "2018-07-02T15:05+0000",
         "link": "https://raw.githubusercontent.com/BeezleLabs/conferences/master/DC26/speakers.json"
       },
       "locations": {
-        "updated_at": "2018-06-30T18:57+0000",
+        "updated_at": "2018-07-02T15:05+0000",
         "link": "https://raw.githubusercontent.com/BeezleLabs/conferences/master/DC26/locations.json"
       },
       "id": 1,
@@ -19,7 +19,7 @@
       "code": "DC26",
       "link": "https://defcon.org/html/defcon-26/dc-26-index.html",
       "events": {
-        "updated_at": "2018-07-02T14:13+0000",
+        "updated_at": "2018-07-02T15:05+0000",
         "link": "https://raw.githubusercontent.com/BeezleLabs/conferences/master/DC26/events.json"
       },
       "description": "DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.",

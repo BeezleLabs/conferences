@@ -1897,7 +1897,608 @@
       "location": 26001,
       "description": "Orwell's concept of 1984 has more to do with government misuse of technology than technology itself. New technology allows for more opportunity, but unchecked, it allows for complete government control. \nRepresentative Daniel Zolnikov is the nation's leading politician regarding privacy and surveillance and has enacted numerous laws safeguarding fourth amendment rights regarding digital communications and technology. Daniel will walk you down the road of how political misuse of technology can and will turn the Federal Government into an unprecedented nanny state that will lead to a suppressed free flow of information and fear of stepping out of line. His story includes insights on how unique left and right coalitions were formed to pass these laws in his home state of Montana, and how he prevailed against law enforcement groups who opposed implementing warrant requirements. \nThis discussion is aimed at sharing insights no matter your political affiliation. All of Daniel's legislation has passed with overwhelming bi-partisan support through both bodies in Montana's legislature and was signed by the governor of the opposite party. Although most speeches involving politicians tend to lead towards rhetoric, Daniel's goal is to share enough information to be able to understand why change has not taken place yet, and leave you understanding how to remedy that. \nHis story will give you insights into the politics that states and the nation face when reforming these issues, and his down to earth approach will bring the topic down to a level of humor and easy understanding. There is no need for any technical or political insight to be able to appreciate this topic and the work Daniel has done on behalf of the more technologically savvy enthusiasts. \nThe theme of DEF CON 26 would be inconsistent without taking into consideration policy and how it ties in closely with technology. Technology relies on policy, and policy has the implications of dictating the use of technology. The two can go hand in hand, or end up squaring up against each other. You are an important, and lesser heard voice in the world of aged politicians with limited vision. The Orwellian state existed due to a mixture of bad policies and technology. Although the theme focuses on technology used to disrupt the surveillance state, the other half of the battle is ensuring this state does not reach the disastrous conclusions of 1984. \nDaniel believes we can move forward with technology without living in fear of our government. If you want to have some hope and direction towards the future of policy regarding surveillance and technology, Daniel will leave you with the optimism that there is still a chance that our nation can have a balanced approach that ensures 1984 does not become the norm in the future and will help you understand how to take part in this action.",
       "start_date": "2018-08-12T18:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26200,
+        26201,
+        26202
+      ],
+      "entry_type": 3,
+      "id": 26150,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-10T21:00+0000",
+      "title": "Crypto Hero",
+      "location": 26006,
+      "description": "Protect data with strong cryptography (AES, RSA, SHA) and attack these systems (Existential Forgery, Padding Oracle, and more). Apply these techniques to blockchains including Bitcoin, Ethereum, and Multichain.\nThis is a hands-on workshop with a series of CTF-style challenges, beginning with simple data conversions and extending to advanced methods appropriate for experts. We will briefly explain and demonstrate the techniques, and trainers will help participants individually with the challenges.",
+      "start_date": "2018-08-10T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26203,
+        26204
+      ],
+      "entry_type": 3,
+      "id": 26151,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-11T01:30+0000",
+      "title": "JWAT...Attacking JSON Web Tokens",
+      "location": 26007,
+      "description": "Nowadays, JSON Web Tokens are everywhere. They are used as session tokens, Oauth tokens or just to pass information between applications or microservices. By design, JWT contains a high number of security and cryptography pitfalls that creates interesting vulnerabilities. In this workshop, we are going to learn how to exploit some of those issues: the none algorithm, guessing the hmac secret, using a public key as a hmac secret... and finally CVE-2018-0114: a bug in the Cisco's Node JOSE.",
+      "start_date": "2018-08-10T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26205
+      ],
+      "entry_type": 3,
+      "id": 26152,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-10T21:00+0000",
+      "title": " Reverse Engineering with OpenSCAD and 3D Printing",
+      "location": 26008,
+      "description": "The main focus of this class is a software tool and programming language OpenSCAD. Through a specific example we will learn to reproduce physical objects. We'll cover the entire workflow from measurement, sketching, modeling, and manufacturing. Additional hints for optimizing your design for 3D printing will enable rapid product iteration. All modeling in OpenSCAD is through writing commands which brings many powerful properties of software such as parameterization, version control, and reusable components to CAD modeling. Ultimately with the combination of these skills you'll be equipped to repair and improve your stuff.",
+      "start_date": "2018-08-10T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26206
+      ],
+      "entry_type": 3,
+      "id": 26153,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-10T21:00+0000",
+      "title": "ARM eXploitation 101",
+      "location": 26007,
+      "description": "ARM architecture based systems are on the rise and seen in almost every hand-held or embedded device. The increasing popularity and growth of the Internet of Things (IoT) have allowed widespread use of ARM architecture. As with any other thing in this world, increasing popularity and usage brings new security challenges and attacks. This workshop aims to provide an introduction to ARM architecture, assembly and explore intermediate level exploitation techniques on ARM along with hands-on examples and challenges.\nThis session is aimed at security professionals and personnel who possess general security knowledge and wish to enter the field of ARM exploitation.\nThe attendees will walk away with basic knowledge and skills of ARM Architecture, Assembly, and Exploitation techniques.\nThe workshop will provide a base for the attendees to develop exploit research expertise on the ARM based platforms\nTopics Covered:\n\n\n\nIntroduction to ARM CPU Architecture \n\nRegisters\n\nModes of Operations\n\nARM Assembly Language Instruction Set\n\nIntroduction to ARM functions and working\n\nDebugging on ARM\n\nStack Overflow on ARM\n\nHow to write a shellcode\n\nHow to reverse a shellcode",
+      "start_date": "2018-08-10T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26207
+      ],
+      "entry_type": 3,
+      "id": 26154,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-11T01:30+0000",
+      "title": "Buzzing Smart Devices: Smart Band Hacking",
+      "location": 26008,
+      "description": "With the recent advancement in connected/smart device and availability of ready-made framework for both hardware and software development. Companies want to rapidly get into smart device market. it is necessary to look at the security feature of these smart device as our digital lives are connected with these devices.\nBluetooth has been around for almost a decade and with the need of low power wireless network and interoperability. Bluetooth has been used in vast majority of the device because of its low power footprint and interoperability as most of our smartphones have Bluetooth\nIn this workshop, we will be learning on how to fuzz the Bluetooth LE functionality of smart devices and exploit it. In the process, we will learn about how the Bluetooth low energy protocol works and various tools involved in reversing a smart band. We will also introduce a Bluetooth fuzzing framework called as Buzz and use it to crash or find other information in the smart band. \nBy the end of the class, we will also touch base on the hardware level exploits like accessing the serial port, debugging port and bypass Flash Read protection to extract the firmware from the smart band and demos on the same.",
+      "start_date": "2018-08-10T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26208,
+        26209
+      ],
+      "entry_type": 3,
+      "id": 26155,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-10T21:00+0000",
+      "title": "Attacking Active Directory and Advanced Defense Methods in 2018",
+      "location": 26009,
+      "description": "This hands-on workshop teaches you how to both attack and defend Active Directory. We will start by deploying an Active Directory environment using the typical security settings found in most medium to large organizations. Participants will then learn current common methods and tools used to exploit Active Directory against a lab environment. Participants will create a hardened Active Directory environment using advanced methods to secure domain controllers from attack and then try to compromise their hardened environments.",
+      "start_date": "2018-08-10T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26210,
+        26211
+      ],
+      "entry_type": 3,
+      "id": 26156,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-11T01:30+0000",
+      "title": "Penetration Testing Environments: Client & Test Security",
+      "location": 26010,
+      "description": "Penetration testers can have the tables turned on them by attackers, to the detriment of client and tester security. Vulnerabilities exist in widely-used penetration testing tools and procedures. Testing often takes place in hostile environments: across the public Internet, over wireless, and on client networks where attackers may already have a foothold. \nIn these environments, common penetration testing practices can be targeted by third-party attackers. This can compromise testing teams in the style of \"ihuntpineapples\", or worse: quietly and over a long period of time. The confidentiality, integrity, and availability of client networks is also put at risk by \"sloppy\" testing techniques.\nIn this workshop, we present a comprehensive set of recommendations that can be used to build secure penetration testing operations. This includes technical recommendations, policies, procedures, and guidance on how to communicate and work with client organizations about the risks and mitigations. The goal is to develop testing practices that:\n- ...are more professionally sound\n\n - ...protect client organizations\n\n - ...protect penetration testers' infrastructure, and\n\n - ...avoid a negative impact on speed, agility, and creativity of testers\nThe recommendations are illustrated with entertaining and informative hands-on exercises. For the DEF CON 26 version of this class, the exercises have been updated to take place within Docker containers, and a portion of the class will involve introducing penetration testers to the use (and abuse) of containers. \nExercises include:\n\n - Vulnerability analysis of a penetration testing device's firmware\n\n - Quick and dirty code audits of high-risk testing tools\n\n - Monitoring and hijacking post-exploitation command and control\n\n - Layering security around otherwise insecure tools.\nAfter this workshop, you will walk away with actionable recommendations for improving the maturity and security of your penetration testing operations, as well as an exposure to the technical aspects of protecting the confidentiality of sensitive client data. You will participate in hands-on exercises that illustrate the importance of analyzing your own tools for vulnerabilities, and learn how to think like an attacker that hunts attackers. You'll hear about the challenges that are inherent in performing penetration tests on sensitive client networks, and learn how to layer security around your practices to reduce the risks.",
+      "start_date": "2018-08-10T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26212,
+        26213,
+        26214
+      ],
+      "entry_type": 3,
+      "id": 26157,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-11T01:30+0000",
+      "title": "Threat Hunting with ELK",
+      "location": 26009,
+      "description": "This hands-on training will walk attendees through leveraging the open source ELK (Elastic) stack to proactively identify malicious activity. The basic tools and techniques taught during this class can be used to investigate isolated security incidents or implemented at scale for continuous monitoring and hunting. Attendees will be provided with access to a preconfigured ELK cluster and extensive sample logs containing diverse malicious events waiting to be discovered. The training will conclude with a friendly CTF to give attendees an opportunity to collaborate on teams and put their learning into practice in a simulated network environment.",
+      "start_date": "2018-08-10T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26215
+      ],
+      "entry_type": 3,
+      "id": 26158,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-10T21:00+0000",
+      "title": "Attacking & Auditing Docker Containers Using Open Source",
+      "location": 26010,
+      "description": "Developers and Operations teams (DevOps) have moved towards containers and modern technologies. Attackers are catching up with these technologies and finding security flaws in them. In this workshop, we will look at how we can test for security issues and vulnerabilities in Dockerised environments . Throughout the workshop we will learn how we can find security misconfigurations, insecure defaults and container escape techniques to gain access to host operating system (or) clusters. In the workshop, we will look at real world scenarios where attackers compromised containers to gain the access to applications, data and other assets.\nBy the end of workshop participants will be able to:\n\n- Understand Docker security architecture\n\n- Audit containerised environments\n\n- Perform container escapes to get access to host environments\n\nThe participants will get the following:\n\n- A Gitbook(pdf, epub, mobi) with complete workshop content\n\n- Virtual machines to learn & practice\n\n- Other references to learn more about topics covered in the workshop",
+      "start_date": "2018-08-10T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26216
+      ],
+      "entry_type": 3,
+      "id": 26159,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-11T01:30+0000",
+      "title": "Deploying, Attacking, and Securing Software Defined Networks",
+      "location": 26006,
+      "description": "Let's get our hands dirty in Software Defined Networking! Whether you're a network engineer or just a netsec enthusiast, this workshop will provide you with tools and guidance to set up, attack, and secure a software defined network from scratch using open-source tools and cloud-based switching software. Each attendee will be given access to a lab environment where they can deploy, test, configure, break, and secure a software defined network. All scripts and deployment instructions will be provided at the end, so you can continue your testing and research back home, or use it to make friends and win bets at the pub.",
+      "start_date": "2018-08-10T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26217
+      ],
+      "entry_type": 3,
+      "id": 26160,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-11T21:00+0000",
+      "title": "Joe Grand's Hardware Hacking Basics",
+      "location": 26011,
+      "description": "Interested in hardware hacking, but don't know where to start? This workshop covers the basic skills you'll need for hacking modern embedded systems, including soldering/desoldering, circuit board modification, signal monitoring/analysis, and memory extraction. It is a subset of Joe Grand's Hands-on Hardware Hacking training class that he has been teaching since 2005.",
+      "start_date": "2018-08-11T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26217
+      ],
+      "entry_type": 3,
+      "id": 26161,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-12T01:30+0000",
+      "title": "Build Your Own OpticSpy Receiver Module",
+      "location": 26011,
+      "description": "OpticSpy is an open source hardware module for experimenting with optical data transmissions. It captures, amplifies, and converts an optical signal from a visible or infrared light source into a digital form that can be analyzed or decoded with a computer. With OpticSpy, electronics hobbyists and hardware hackers can search for covert channels, which intentionally exfiltrate data in a way undetectable to the human eye, add data transfer functionality to a project, or explore signals from remote controls and other systems that send information through light waves. \nIn this workshop, creator Joe Grand will present a brief history of the project and then guide you through the process of building, calibrating, and testing your own kit version of OpticSpy.",
+      "start_date": "2018-08-11T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26218,
+        26219
+      ],
+      "entry_type": 3,
+      "id": 26162,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-11T21:00+0000",
+      "title": "Attack & Defense in AWS Environments",
+      "location": 26010,
+      "description": "AWS is the most widely used cloud environments today and almost every security professional have to encounter this environment whether you are attacking an organization or defending it. In this fast-paced workshop we will teach participants with some neat tools, techniques and procedures to attack the most widely used AWS services as well as to defend them.\n- Recon / Information Gathering on AWS Services\n\n  - Attacking S3 buckets\n\n  - Exploiting web application flaws to compromise AWS services (IAM/KMS)\n\n  - Attacking Serverless applications\n\n  - Disrupting AWS Logging\n\n  - Attacking Misconfigured Cloud SDN\n\n\t\nTakeaways:\n Students will be able to understand and appreciate the delta in attack surface which gets added due to moving to cloud. And subsequently design architecture and develop applications to defend them.\n\t\n\t\nWhat will participants be provided?\n\n  - PDF copy of slide deck\n\n  - Lab VM\n\n  - Workshop lab manual\n\n  - Bonus labs\n\n\t\n\tTarget Audience:\n\n  - Cloud Security Engineers\n\n  - DevOps engineers\n\n  - Security Analyst\n\n  - Penetration Testers\n\n  - Anyone else who is interested in Cloud Security\n\n  - If you are an Expert or Advanced user, you may join us as co-trainers! :-)",
+      "start_date": "2018-08-11T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26220
+      ],
+      "entry_type": 3,
+      "id": 26163,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-12T01:30+0000",
+      "title": "Securing Big Data in Hadoop",
+      "location": 26006,
+      "description": "Big Data have been for quiet a good time the driving force for innovation in many markets around. Data is the current asset that companies from around the world look for to crunch and extract information and knowledge, get new insights in order to create new services and products to deliver to their customers and finally improve their profits.\nBecause of that, it is imperative to protect such an important asset. In this workshop we will look at Haddoop from the point of view of security. We will learn what the Hadoop ecosystem has to offer us to protect our data, starting with Kerberos, perimeter security with Apache Knox, Configuring authorization with Apache Ranger and enabling encryption of the HDFS (Hadoop File System).\n1) Kerberos is used in Hadoop to provide an authentication system for users and other system interacting with the Hadoop cluster and it's services. Strongly authenticating and establishing a user's identity is the basis for secure access in Hadoop. Users need to be able to reliably \"identify\" themselves and then have that identity propagated throughout the Hadoop cluster. Hadoop uses Kerberos as the basis for strong authentication and identity propagation for both user and services. More info: https://web.mit.edu/kerberos/\n2) The Apache Knox Gateway (Knox) is a system to extend the reach of Apache Hadoop services to users outside of a Hadoop cluster without reducing Hadoop Security. Knox also simplifies Hadoop security for users who access the cluster data and execute jobs. The Knox Gateway is designed as a reverse proxy. The Apache Knox Gateway is an Application Gateway for interacting with the REST APIs and UIs of Apache Hadoop deployments. The Knox Gateway provides a single access point for all REST and HTTP interactions with Apache Hadoop clusters. More info: https://knox.apache.org/\n3) Apache Ranger is a framework to enable, monitor and manage comprehensive data security across the Hadoop platform. The vision with Ranger is to provide comprehensive security across the Apache Hadoop ecosystem",
+      "start_date": "2018-08-11T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26221
+      ],
+      "entry_type": 3,
+      "id": 26164,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-10T21:00+0000",
+      "title": "Bypassing Windows Driver Signature Enforcement",
+      "location": 26011,
+      "description": "Microsoft does a great effort to harden the Windows kernel and limit attackers to load their custom drivers (kernel rootkits) with the introduction of Driver Signature Enforcement in Win7x64. In this 4 hour workshop we will learn the limitation of this enforcement and practice how we can bypass it. We will explore 4 different methods (from very easy to difficult) on various versions of Windows, including Windows 10. We will see how and why they work, and which malware used them in the past.\nFirst we will see how we can use leaked certificates to overcome DSE as well as how we can turn it OFF by design, and what are its limitations. Then we will use WinDBG to look into the kernel and find the various flags used to control DSE and use the HackSysExtremeVulnerableDriver to do kernel exploitation for setting those to the value we require. We will use a simple dummy driver to demonstrate unsigned driver loading.",
+      "start_date": "2018-08-10T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26222,
+        26223
+      ],
+      "entry_type": 3,
+      "id": 26165,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-12T01:30+0000",
+      "title": "Analyzing Malscripts: Return of the Exploits!",
+      "location": 26010,
+      "description": "In recent years malscripts and file based exploits have become a main delivery method for malware. Malscripts are often heavily obfuscated and they can take many different forms including WScript, Javascript, macros, and PowerShell. There has also been been a rise in document based exploits used to deliver and execute these malscripts. As a result incident responders and malware analysts need to be comfortable analyzing different document formats, identifying potential exploits, and analyze malscripts.\nIn this workshop you will work through the triage of a live malware delivery chain that includes a malicious document, malicious scripts, and a final malware payload. During this process you will be exposed to different document based exploits, and you will practice the skills required to manually analyze malscripts. This workshop focuses on the fundamental analysis techniques used when identifying, deobfuscating, and analyzing maldocs and malscripts. However, we will also provide an introduction to automation tools and techniques that can be used to speed up the analysis process. \nThis workshop is aimed at junior incident responders, hobby malware analysts, and general security or IT practitioners who are interested in learning more about the malware triage process. If you have no experience with malware analysis but you have a good understanding of scripting languages like VBScript, and Javascript, and you are familiar with windows internals you should have no problem completing the workshop. You will be provided with a VirtualMachine to use during the workshop, please make sure to bring a laptop that meets the following requirements. Your laptop must have VirtualBox installed and working (VMWare is not supported). Your laptop must have at least 60GB of disk space free, preferably 100GB. Your laptop must be able to mount USB storage devices. Make sure you have the appropriate dongle if you need one.",
+      "start_date": "2018-08-11T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26224,
+        26225
+      ],
+      "entry_type": 3,
+      "id": 26166,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-11T21:00+0000",
+      "title": "Advanced Custom Network Protocol Fuzzing",
+      "location": 26009,
+      "description": "Get hands on experience writing custom network protocol fuzzers. This class will cover the basics of network protocol \"smart fuzzing.\" Exercises will utilize the open source network protocol fuzzing framework, boofuzz. Attendees will gain practice reverse engineering a network protocol, implementing and iterating on a custom fuzzer, and identifying vulnerabilities.\n\nAfter:\n\n1. You will know the basics of fuzzing.\n\n2. You will know how to write custom network protocol fuzzers using state of the art open source tools.\n\n3. You will have hands on experience with this widely-discussed but still largely mysterious test method.\n\nBefore:\n\n1.You should be comfortable doing some programming in Python.\n\n 2. You should understand basic network protocol concepts.\n\n 3. You should be familiar with WireShark and how to use it.\n\nWhat you won't learn:\n\n 1. Exploit development.\n\n 2. Python programming. Because you can already do that (see above).",
+      "start_date": "2018-08-11T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26226,
+        26227,
+        26228
+      ],
+      "entry_type": 3,
+      "id": 26167,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-12T01:30+0000",
+      "title": "Building Environmentally Responsive Implants with Gscript",
+      "location": 26009,
+      "description": "Attendees to this workshop will experience a step by step walk through in setting up a Gscript build environment (which will include the Golang programing language as a requirement, along with the required libraries). Subsequently, attendees will obtain a basic overview of the Gscript capabilities in using conditional logic to navigate within, and deploy persistence mechanisms upon, target hosts.\nUpon completion, each attendee will depart with a laptop (whichever one they brought _)containing a full Gscript build & testing environment, and at least 1 custom Gscript of their own design and purpose.",
+      "start_date": "2018-08-11T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26229,
+        26230
+      ],
+      "entry_type": 3,
+      "id": 26168,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-11T21:00+0000",
+      "title": "Fuzzing with AFL (American Fuzzy Lop)",
+      "location": 26008,
+      "description": "This workshop will give participants information how to use afl (American fuzzy lop) to identify vulnerabilities in different applications and modules.\n  afl is a security-oriented fuzzer, that allows to efficiently and automatically test software components allowing to find interesting security issues.\n  It is one of leading tools and essential component in the toolbox of security researcher and hacker (penetration tester).\n  List of afl trophies (issues found using afl) can be read at: \nhttp://lcamtuf.coredump.cx/afl/\n\n  Participants will have possibility to learn how afl works and how to use it successfully based on real life cases - vulnerabilities found by trainers in different open source components.\n  During the training multiple cases and tips will be presented (see detailed outline for more complete list).",
+      "start_date": "2018-08-11T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26231,
+        26232
+      ],
+      "entry_type": 3,
+      "id": 26169,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-12T01:30+0000",
+      "title": "Lateral Movement 101: 2018 Update",
+      "location": 26007,
+      "description": "During a targeted penetration test or red team engagement, consultants will have clear engagement goals and targets such as a particular database or access to specific blueprints within the environment. \n During the engagement, obtaining shells on servers & workstations as standalone devices will not provide access to the target data. The pentesters will need to move from one host to another in order perform reconnaissance and eventually, get to the target.\n This workshop aims to provide the necessary background knowledge to understand and execute lateral movement techniques on both MS Windows and Linux. More than just showing which tools and parameters to use like Youtube video would, this workshop will dive deep and describe with detail, the specific services of each OS and how they can be abused to achieve lateral movement. This knowledge will allow the students to learn the actual techniques and not just a bunch of tools.",
+      "start_date": "2018-08-11T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26233
+      ],
+      "entry_type": 3,
+      "id": 26170,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-12T01:30+0000",
+      "title": "Weapons Training for the Empire",
+      "location": 26008,
+      "description": "Dive into the world of using the PowerShell Empire Remote Access Tool (RAT). The students will learn to use Empire. They will build command & control, evade some defensive controls, and other red team tips and tricks. Additionally, students will gain insight on how to build more complex infrastructure for Red Team operations, automate common tasks, and extract engagement data for reporting.",
+      "start_date": "2018-08-11T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26234
+      ],
+      "entry_type": 3,
+      "id": 26171,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-11T21:00+0000",
+      "title": "Decentralized Hacker Net",
+      "location": 26006,
+      "description": "As hackers, sometimes we need to send data without anybody knowing anything. We don't want anybody to know what we're sending, so we use encryption. That's the easy part. We also don't want anybody to know that we're sending any data. That's the hard part. The observation of our presence on the network could be enough to get us in trouble. And that's just not acceptable. We need to figure out a way to hide in plain sight.\nCreating an environment where data can be sent securely and our presence on the network is hidden, is not an easy thing to do. We can't rely on centralized technologies, which means we need to build a decentralized network. The network should be adaptive and flexible enough to send any type of data to any number of users. But how do we inject anonymity into a network while still supporting the verification of identity between parties? Can we establish trust without having to trust?\nThis workshop takes you through the process of creating a decentralized network that allows you to circumvent detection by governments and corporations. You'll be able to securely communicate and share data while masking your online identity. You'll create an adaptive, node-based infrastructure where data is shared via Distributed Hash Tables (DHT) backed by real-time asymmetric Elliptic-curve cryptography (ECC). If you've ever wanted to punch a hole through a great (or not-so-great) firewall, this workshop is for you.\nPlease note that this is a medium-level, technical workshop and requires that attendees have prior experience in at least one programming language, preferably C or C++. Bring your laptop, a USB flash drive, and your favorite C/C++ 11 compiler (>= gcc/g++ 4.9.2 or msvc 2015).",
+      "start_date": "2018-08-11T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26235,
+        26236
+      ],
+      "entry_type": 3,
+      "id": 26172,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-11T01:30+0000",
+      "title": "Hacking Thingz Powered By Machine Learning",
+      "location": 26011,
+      "description": "\"HACKING THINGZ POWERED BY MACHINE LEARNING\" is a hands-on workshop that gives attendees a crash course in performing practical adversarial attacks on modern technology powered by machine learning. This will NOT be an intro to ML class - do that on your own time online before or after the class - deep ML knowledge is definitely *not* required. We will perform mischief on ML systems that most tech-savvy people interact with on a daily basis: face recognition, (smartphone authentication) speech recognition, (home assistants) and web application firewalls (need we say more?) ;) We won't just be explaining the theory and tomfoolery behind these attacks - we'll walk you through each step of each attack and show you how *absolutely anyone* can hack systems like these with just a little bit* of background in ML hacking.\n* This is an intermediate technical class suitable for attendees with some ability to read and write basic Python code. To get the most out of this workshop, surface-level understanding of machine learning is good. (i.e. be able to give a one-line answer to the question \"What is machine learning?\")",
+      "start_date": "2018-08-10T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26237,
+        26238
+      ],
+      "entry_type": 3,
+      "id": 26173,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-11T21:00+0000",
+      "title": "Adventures in Radio Scanning: Advanced Scanning Techniques with SDR",
+      "location": 26007,
+      "description": "Many cities around the world have implemented multi-million dollar \"trunked\" radio systems for their transit, municipal, public safety, police, fire and EMS radio networks. Large commercial organizations (like Caesar's) also use frequency sharing trunked radio systems due to the hundreds (if not thousands) of staff... all requiring radio access. This workshop will walk you through the basics of trunked radio systems, how they work, and how you can set up a listening post to decode these systems and listen in. This workshop will cover setting up and using the Trunk88 scanning software, and how to scan other conventional (non-trunked) radio systems such as MOTOTRBO, Tetra, EDACS, and other systems. Live interception and decoding of a trunked system and a DMR/TRBO system will be done by students. We will also quickly walk through scanning popular archaic pager systems like POCSAG. ",
+      "start_date": "2018-08-11T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26239,
+        26240
+      ],
+      "entry_type": 3,
+      "id": 26174,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-09T21:00+0000",
+      "title": "Guided Tour to IEEE 802.15.4 and BLE Exploitation",
+      "location": 26011,
+      "description": "The workshop aims at delivering hands on experience to pentest 802.15.4 and BLE commercial devices. \n By design and purpose, IoT was meant to serve the whims of human, taking human laziness to next level.\n Hence in this due effort, there was least || no attention paid towards the state of security of IoT.\n However, this doesn't mean, the motives of users are deterred to use insecure IoT devices/setups.\nDue to high demand for automation in M2M communication, the IoT concept took a position in the industrial sector for better and fast work ignoring security aspect. \n Absence of this aspect in the production is making all IoT communications and wireless communications vulnerable largely.\nOn the other hand, BLE devices have been used everywhere. They are being used in home automation, healthcare,\n SensorTags and Bluetooth Password Manager etc. As a matter of fact, these BLE devices are equally vulnerable as that of IEEE 802.15.4 based devices. The impact is huge as these technologies are used in industrial applications like water dams and other ICS systems.\n\n Prebuilt VM with lab manuals will be provided to attendees.\n The workshop is structured for beginner to intermediate level attendees who do not have any experience in IoT wireless communication.",
+      "start_date": "2018-08-09T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26241
+      ],
+      "entry_type": 3,
+      "id": 26175,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-10T01:30+0000",
+      "title": "Forensic Investigation for the Non-Forensic Investigator",
+      "location": 26011,
+      "description": "This workshop will provide a foundation to attendees on the basics of performing a forensic investigation on a corporate or SOHO network.  The course will primarily discuss forensics on a Windows system and network, but, Linux and Mac systems will be briefly discusses during the workshop where applicable.\n\nAttendees will learn techniques on how to properly collect possible evidentiary data, how to store the collected data, how to analyze the information and evaluate the data.\nTopics that will be covered include:\n- Pre-incident.. Setting up your forensic analysis toolkit.\n- First contact with an incident.  What should you do and not do.\n- Collecting volatile data.  Tools and techniques\n- Collecting and storing non-volatile data.\n- Utilizing open source software to analyze the data\n- Making a determination and writing the report based on the analyzed data.\n- What to do with the collected and analyzed information.\n\nThis workshop is intended to provide a basic overview of how to properly collect and handle data in a corporate or enterprise network.  The course will cover several tools and provide labs for the students to complete to familiarize themselves with how the tools work and the proper procedures to use.  However, this class will not make a deep dive into any of the tools.  Nor is this class intended for the professional forensic investigator.",
+      "start_date": "2018-08-09T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26203,
+        26204
+      ],
+      "entry_type": 3,
+      "id": 26176,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-09T21:00+0000",
+      "title": "Finding Needles in Haystacks",
+      "location": 26007,
+      "description": "With more and more teams moving to Agile, security engineers need to be ready to find bugs by just looking at a diff in Stash or Github. This workshop will give you the basics to get started and know what to look for. Based on 3 exercises in 3 different languages (PHP, Golang and Ruby), we will cover simple to more advanced issues and show you where to look and what you can find. After this workshop, you will be ready to start doing code review for fun or as a way to get further as part of a post-exploitation.",
+      "start_date": "2018-08-09T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26242,
+        26243
+      ],
+      "entry_type": 3,
+      "id": 26177,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-09T21:00+0000",
+      "title": "Pentesting ICS 101",
+      "location": 26008,
+      "description": "Many people talk about ICS & SCADA security nowadays, but only a few people actually have the opportunity to get their hands dirty and understand how these systems work. Have you ever wanted to know how to make a train derail, or stop a production line? Well, this workshop is made for you!\nThe goal of this workshop is to give you the knowledge required to start attacking SCADA networks and PLCs, and give you hands-on experience on real devices by hacking our model train!\nIn this workshop, we will cover the main components and the commonly associated security flaws of industrial control systems, aka SCADA systems. We will then focus on their key assets, Programmable Logic Controllers (PLCs), and discover how they work, how they communicate, how they can be programmed to learn the methods and tools you can use to p*wn them.\nThen we will move on to real-world by attacking real PLCs from two major manufacturers on a dedicated setup featuring robot arms and a model train! Let's capture the flag!",
+      "start_date": "2018-08-09T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26244,
+        26245
+      ],
+      "entry_type": 3,
+      "id": 26178,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-09T21:00+0000",
+      "title": "Where's My Browser? Learn Hacking iOS and Android WebViews",
+      "location": 26009,
+      "description": "WebViews allow developers to embed HTML pages into mobile applications and their use is widespread, from merely displaying a simple help page to wrapping an entire website inside a mobile app.\n Developers now \"control the browser\" and things can go very wrong: a cross site scripting vulnerability can be catastrophic for a mobile application and result in the exfiltration of user's data stored on the device or in someone listening to user conversations.\n The \"Where's My Browser?\" vulnerable-by-design mobile applications for Android and iOS have been written by the presenter as a teaching tool for hacking WebViews.\n The workshop covers the attack surface of Android and iOS WebViews and presents techniques and tools for identifying and exploiting those vulnerabilities. Attendees will practice their skills against the \"Where's My Browser?\" mobile apps. The source code of the applications will help students in recognizing common coding mistakes.",
+      "start_date": "2018-08-09T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26246
+      ],
+      "entry_type": 3,
+      "id": 26179,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-10T01:30+0000",
+      "title": "Introduction to Cryptographic Attacks",
+      "location": 26008,
+      "description": "Using cryptography is often a subtle practice and mistakes can result in significant vulnerabilities. This workshop will cover many of these vulnerabilities which have shown up in the real world. This will be a hands-on workshop where you will implement the attacks after each one is explained. I will provide a VM with Python dependencies and skeleton code included so you can focus on implementing the attack. A good way to determine if this workshop is for you is to look at the challenges at cryptopals.com and see if those look interesting, but you could use in person help understanding the attacks. While not a strict subset of those challenges, there is significant overlap.",
+      "start_date": "2018-08-09T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26247,
+        26248
+      ],
+      "entry_type": 3,
+      "id": 26180,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-10T01:30+0000",
+      "title": "Advanced Wireless Attacks Against Enterprise Networks",
+      "location": 26009,
+      "description": "This workshop will instruct attendees on how to carry out sophisticated wireless attacks against corporate infrastructure. Attendees will learn how to attack and gain access to WPA2-Enterprise networks, bypass network access controls, and perform replay attacks to gain administrative control over an Active Directory environment. External wireless adapters and additional required equipment will be provided to all workshop attendees, and material learned in the lectures will be practiced within a realistic lab environment. \nAreas of focus include:\n* Wireless reconnaissance and target identification within a red team environment\n\n * Attacking and gaining entry to WPA2-EAP wireless networks\n\n * LLMNR/NBT-NS Poisoning\n\n * Firewall and NAC Evasion Using Indirect Wireless Pivots\n\n * MITM and SMB Relay Attacks\n\n * Downgrading modern SSL/TLS implementations using partial HSTS bypasses",
+      "start_date": "2018-08-09T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26249,
+        26250
+      ],
+      "entry_type": 3,
+      "id": 26181,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-10T01:30+0000",
+      "title": "Fuzzing FTW",
+      "location": 26007,
+      "description": "Join us in this hands-on introduction to fuzzing workshop, where we will explore how common fuzzing tools (e.g. AFL, libFuzzer, BooFuzz, etc..) are used to discover previously unknown bugs within applications.\nWe will first cover a general process to follow when fuzzing a targeted application and then provide hands-on labs where students will be able to apply this fuzzing process to quickly discover bugs within applications. \nSeveral different fuzzing techniques will be covered including fuzzing file inputs via blind mutations (e.g. radamsa), fuzzing specific functions within an application via in-process evolutionary fuzzing (e.g. libFuzzer), compile-time instrumentation based fuzzing (e.g. AFL), and fuzzing of network services via generation based fuzzing (e.g. BooFuzz aka Sulley).",
+      "start_date": "2018-08-09T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26251,
+        26252
+      ],
+      "entry_type": 3,
+      "id": 26182,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-10T01:30+0000",
+      "title": "Playing with RFID",
+      "location": 26010,
+      "description": "This is a workshop about Radio-frequency Identification (RFID), including a basic introduction and a set of practical hands-on challenges. We will start with explaining the theory behind RFID, including the different types and protocols (e.g. HID, Mifare) and how to perform an RFID assessment. Afterwards, the participants can take on several challenges (of increasing difficulty) with RFID readers that we will provide. Our objective is to make this workshop fun and accessible to a wide audience.",
+      "start_date": "2018-08-09T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26253,
+        26254
+      ],
+      "entry_type": 3,
+      "id": 26183,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-09T21:00+0000",
+      "title": "Packet Mining for Privacy Leakage",
+      "location": 26006,
+      "description": "Join the packet hunters behind NPR's Project Eavesdrop for an interactive, hands-on workshop where we'll hunt for juicy bits of personal & corporate data on the wire. Using Wireshark, ngrep,\n tcpflow, xplico and other Linux packet digging tools, you'll learn how to extract PII from a packet capture or live stream, including passwords, emails, photos/images, cookies, session IDs, credit card\n numbers, SSNs, GPS coordinates, mobile device details, cell carrier info, vulnerable client software, weak SSL sessions, and much more. Useful for detecting privacy/data leakage, passive pentesting, & network forensics, these techniques expose what an intermediary can discern about an individual or organization through passive monitoring of network traffic.",
+      "start_date": "2018-08-09T17:00+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26255
+      ],
+      "entry_type": 3,
+      "id": 26184,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-10T01:30+0000",
+      "title": "The Truth is in the Network: Reverse Engineering Application-Layer Protocols Via PCAP",
+      "location": 26006,
+      "description": "Reverse engineering has become an increasingly important element of network security. The ability to break a system down in order to understand its base components and how they interact is critical to understanding not just how the system works, but the ways it can leave your network vulnerable. This is especially true at the application level, where insecure or poorly managed applications can leak sensitive data. In this hands-on workshop, attendees will learn how to reverse engineer real application-layer protocols. During our time together, we'll start at the surface and do a deep technical dive into the network traffic of a common remote access application. Along the way, we'll: \n1. Introduce protocol reverse engineering and explain its importance\n\n 2. Learn how to discover structured data\n\n 3. Determine if data is encoded or encrypted\n\n 4. Understand how various protocols interact\n\n 5. Uncover secondary communications and information leaks in a hands-on fashion\nAll materials and content are freely available at \nhttps://dl.awakesecurity.com/defcon/nw_re_tools/resources.html\n and will remain so.",
+      "start_date": "2018-08-09T21:30+0000"
+    },
+    {
+      "includes": "",
+      "speakers": [
+        26256,
+        26257
+      ],
+      "entry_type": 3,
+      "id": 26185,
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "link": "",
+      "end_date": "2018-08-09T21:00+0000",
+      "title": "Building Autonomous AppSec Test Pipelines with the Robot Framework",
+      "location": 26010,
+      "description": "It is common knowledge that automating security testing, especially for rapid-release applications is an essential requirement from multiple perspectives. One perspective is that of security testing in a Continuous Delivery Pipeline (as part of CI/CD) and the other is the perspective of a Penetration Tester. In a CI/CD Pipeline, one would like security tests to be triggered in an automated manner. These tests should provide information related to application vulnerabilities to engineering teams, early in the SDL (Software Development Lifecycle), preferably before these apps are deployed to production. From the perspective of the Pentester, there is the obvious shortage of time and resources. Pentesters spend a lot of time repeating standard manual processes, thereby losing out on time to perform more deep, insightful analysis of the target application to uncover serious security flaws. Targeted Automation, can be very useful for a Pentester as well.",
+      "start_date": "2018-08-09T17:00+0000"
     }
   ],
-  "updated_at": "2018-07-02T14:13+0000"
+  "updated_at": "2018-07-02T15:05+0000"
 }

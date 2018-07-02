@@ -29,7 +29,43 @@
       "updated_at": "2018-06-30T18:57+0000",
       "name": "Location:TBA",
       "id": 26005
+    },
+    {
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "name": "Icon F",
+      "id": 26006
+    },
+    {
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "name": "Icon D",
+      "id": 26007
+    },
+    {
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "name": "Icon B",
+      "id": 26008
+    },
+    {
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "name": "Icon C",
+      "id": 26009
+    },
+    {
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "name": "Icon E",
+      "id": 26010
+    },
+    {
+      "conference": "DC26",
+      "updated_at": "2018-07-02T15:05+0000",
+      "name": "Icon A",
+      "id": 26011
     }
   ],
-  "updated_at": "2018-06-30T18:57+0000"
+  "updated_at": "2018-07-02T15:05+0000"
 }
