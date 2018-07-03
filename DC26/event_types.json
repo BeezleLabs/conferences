@@ -1,19 +1,26 @@
 {
-  "updated_at": "2018-06-30T19:26+0000",
   "event_types": [
     {
-      "conference": "DC26",
       "updated_at": "2018-06-30T19:25+0000",
-      "name": "Official",
       "id": 1,
+      "name": "Official",
+      "conference": "DC26",
       "color": "#c77228"
     },
     {
-      "conference": "DC26",
       "updated_at": "2018-06-30T19:26+0000",
-      "name": "Workshop",
       "id": 3,
+      "name": "Workshop",
+      "conference": "DC26",
       "color": "#AD1457"
+    },
+    {
+      "updated_at": "2018-07-02T23:44+0000",
+      "id": 4,
+      "name": "Demo Lab",
+      "conference": "DC26",
+      "color": null
     }
-  ]
+  ],
+  "updated_at": "2018-07-02T23:44+0000"
 }
