@@ -1,5 +1,5 @@
 {
-  "updated_at": "2018-07-23T15:16+0000",
+  "updated_at": "2018-07-30T23:57+0000",
   "speakers": [
     {
       "name": "0x200b",
@@ -2970,6 +2970,116 @@
       "id": 26318,
       "title": "",
       "description": "M. Can Kurnaz (@0x43414e) is a penetration tester and currently works at European Network for Cyber Security in Netherlands.\n\nHe is conducting penetration tests over internet, internal networks, web-based applications and Operational Technology infrastructures such as smart meters, RTUs, data concentrators, telecontrol gateways, electric vehicle charging points and various ICS/SCADA systems and components, conducting robustness tests for OT devices and working on physical and wireless security assessments of IT/OT devices.\nAt the same time, he is also contributing as an instructor to \"Red Team \u2013 Blue Team Training for Industrial Control Systems and Smart Grid Cyber Security\" training of ENCS.\n"
+    },
+    {
+      "name": "@rainbow_tables",
+      "link": "",
+      "updated_at": "2018-07-30T23:57+0000",
+      "twitter": "@rainbow_tables",
+      "conference": "DC26",
+      "id": 26319,
+      "title": "",
+      "description": "Rainbow_Tables is an experienced incident responder and forensic investigator. She enjoys her forays in various industries - media, telecom and software. She finds that her most intriguing experiences stem from the application of DFIR to those industries. Her passion lies within automating analysis methodologies to streamline the incident response process. She believes in innovating simple and innovative solutions to the challenges poised to incident responders by proliferation of advancing technologies."
+    },
+    {
+      "name": "Xavier Ashe",
+      "link": "",
+      "updated_at": "2018-07-30T23:57+0000",
+      "twitter": "@XavierAshe",
+      "conference": "DC26",
+      "id": 26320,
+      "title": "",
+      "description": "Xavier Ashe is a Georgia Institute of Technology alumnus and has 25 years of hands-on experience in information security. Working for various security vendors and consulting firms for the last 15 years, including IBM, Gartner, and Carbon Black, Xavier has been focused on helping secure companies of all sizes. Xavier was the first hire at the startup Drawbridge Networks, where he was instrumental in bringing the first microsegmentation solution for servers and workstations to market. Xavier served on the IBM Security Architecture Board and published several papers. Mr. Ashe holds many industry certifications, including CISM, CISSP, ITIL, SOA, and others. Xavier is currently running Xavier Enterprises, an information security consulting firm."
+    },
+    {
+      "name": "Russell Mosley",
+      "link": "",
+      "updated_at": "2018-07-30T23:57+0000",
+      "twitter": "@sm0kem",
+      "conference": "DC26",
+      "id": 26321,
+      "title": "",
+      "description": "Russell is an IT Infrastructure & Security Director for a DC-area software services company and an organizer with BSides Charm. Russell has seventeen years' experience in IT operations and Enterprise Defense and is responsible for the organization's compliance with SOC and FISMA requirements. He holds degrees from UMBC, UMUC, and Towson University as well as CISSP and several vendor certifications."
+    },
+    {
+      "name": "@IrishMASMS",
+      "link": "",
+      "updated_at": "2018-07-30T23:57+0000",
+      "twitter": "@IrishMASMS",
+      "conference": "DC26",
+      "id": 26322,
+      "title": "",
+      "description": "IrishMASMS is an old school hacker, fighting the good fight in Computer Network Defense (CND)/blue team efforts for more than 18 years. He has been lurking about since DEFCON 10, a panel member at HOPE 5, a presenter at a couple of Notacons, and a few other conferences where it may be hard to remember what really occurred. Having progressed through the ranks from a Security Operations Center (SOC) analyst to manager and director of Information Security risk management programs, he has experienced the wide opportunities for pain in our industry — and desires to help improve rather than perpetuate, nurture rather than exclude."
+    },
+    {
+      "name": "@jtpereyda",
+      "link": "",
+      "updated_at": "2018-07-30T23:57+0000",
+      "twitter": "@jtpereyda",
+      "conference": "DC26",
+      "id": 26323,
+      "title": "",
+      "description": "Joshua is a software engineer specializing in information and network security. He has worked in the critical infrastructure and cloud computing industries with employers heavily invested in software and hardware security. While he currently hunts vulnerabilities full time, his roles have evolved from programmer to hacker to organizational hacker to regular hacker again. Not only has Joshua found vulnerabilities in safety critical software, he has started long term security programs, changing the way an entire business works. Joshua has written software, hacked software, and hacked companies. In his free time, Joshua enjoys improving open source software, teaching kids to program, attending orchestral concerts with his wife, and figuring out how he can get paid to do it all... legally."
+    },
+    {
+      "name": "@Plug",
+      "link": "",
+      "updated_at": "2018-07-30T23:57+0000",
+      "twitter": "@Plug",
+      "conference": "DC26",
+      "id": 26324,
+      "title": "",
+      "description": "Plug is currently a Senior Security Analyst at Verizon Digital Media Services. He started his journey in computer security back in 1996 when he discovered a 2600 magazine that eventually that lead him to his first LA2600 meeting in 1998. From that point forward, he has been involved in computer security. With over 16 years of IT experience, he has worked as Systems Administrator, Security Analyst and Security Engineer in the Finance and Telecom sector. In his free time, he enjoys building Legos, playing with synthesizers and modular systems, when possible he volunteers his time to computer security events."
+    },
+    {
+      "name": "mwguy",
+      "link": "",
+      "updated_at": "2018-07-30T23:57+0000",
+      "twitter": "",
+      "conference": "DC26",
+      "id": 26325,
+      "title": "",
+      "description": "Chris is currently a Senior Security Engineer at Verizon Digital Media Services (formerly EdgeCast). Started working with computers in High School, and having older slower computers quickly made the move to Linux and BSD's to improve performance. From then on, he's worked with *nix systems almost exclusively, and a couple of years ago made the switch from being a Systems Administrator to working exclusively in Security. When not working, Chris enjoys crypto-currencies, his dogs, and putting wacky stuff on various Raspberry Pis."
+    },
+    {
+      "name": "Judy Towers",
+      "link": "",
+      "updated_at": "2018-07-30T23:57+0000",
+      "twitter": "@LadyRed_6",
+      "conference": "DC26",
+      "id": 26326,
+      "title": "",
+      "description": "As an active duty US Army Counterintelligence Agent (6 yrs), Judy provided weekly SAEDAY briefings for new incoming unit soldiers and for yearly awareness training requirements. Judy received an Army award for the presentation’s effectiveness in engaging the audience, thereby enhancing self-awareness of the threat. Her experiences include training in traditional espionage tradecraft, along with supervising and conducting counterintelligence investigations of individuals, organizations, installations and activities in order to detect, assess and counter threats to national security. After leaving the Army, Judy started a civilian career in information security as: domain admin for a global company, an IT manager implementing incident response system, Fraud department investigating people stealing company services, and now a Cyber Threat Intelligence Analyst, augmented by a 2nd Master’s Degree in Cybersecurity and Computer Forensics."
+    },
+    {
+      "name": "Andy Applebaum",
+      "link": "",
+      "updated_at": "2018-07-30T23:57+0000",
+      "twitter": "",
+      "conference": "DC26",
+      "id": 26327,
+      "title": "",
+      "description": "Andy Applebaum is a Lead Cyber Security Engineer at MITRE where he works on applied and theoretical security research problems, primarily in the realms of cyber defense, security automation, and automated adversary emulation. Andy has contributed to MITRE’s ATT&CK framework and CALDERA adversary emulation platform, as well as other projects within MITRE’s internal research and development portfolio. Prior to working at MITRE, Andy received his PhD in computer science from the University of California Davis, where his dissertation topic was using argumentation logic for reasoning in cyber security. Andy’s work has been published in multiple conferences and workshops and has most recently spoken at Black Hat Europe. In addition to his PhD, Andy holds a BA in computer science from Grinnell College and the OSCP certification."
+    },
+    {
+      "name": "Rik van Duijn",
+      "link": "",
+      "updated_at": "2018-07-30T23:57+0000",
+      "twitter": "",
+      "conference": "DC26",
+      "id": 26328,
+      "title": "",
+      "description": "Rik van Duijn, has over 5 years of experience as a penetration tester. His first job was auditing web application source code for a Dutch bank. Rik holds the OSCP, OSCE certifications, and is currently practicing for the OSEE certification. Rik has spoken at SHA2017, Tweakers Security/DEV Meetups and #whiskyleaks."
+    },
+    {
+      "name": "Leandro Velasco",
+      "link": "",
+      "updated_at": "2018-07-30T23:57+0000",
+      "twitter": "",
+      "conference": "DC26",
+      "id": 26329,
+      "title": "",
+      "description": "Leandro Velasco has over 4 years of experience in IT security. After his initial introduction managing SIEM systems Leandro completed the OS3 master. In his current role Leandro is a member of the security research team, analyzing threats and designing detection or mitigating solutions."
     }
   ]
 }
